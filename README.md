@@ -66,60 +66,8 @@ Each participant viewed only one version of each advertisement to eliminate memo
 
 ---
 
-## Directory Structure
 
-```text
-APEYE/
-│
-├── data/
-│   ├── raw_gaze/
-│   ├── fixations/
-│   ├── saccades/
-│   ├── aoi_metrics/
-│   └── advertisement_features/
-│
-├── stimuli/
-│   ├── original/
-│   ├── generic/
-│   ├── qwen/
-│   ├── gpt4o/
-│   └── gemini/
-│
-├── annotations/
-│   ├── headline_aoi/
-│   ├── product_aoi/
-│   └── cta_aoi/
-│
-├── figures/
-│
-├── paper/
-│
-└── README.md
-```
 
----
-
-## Citation
-
-If you use APEYE in your research, please cite:
-
-```bibtex
-@dataset{apeye2026,
-  title={APEYE: Advertising Perception Eye-Tracking Dataset},
-  author={Taib, Walid and Bruno, Alessandro and collaborators},
-  year={2026},
-  publisher={GitHub},
-  url={https://github.com/walidtaib44/APEYE}
-}
-```
-
----
-
-## License
-
-This dataset is released under the CC BY 4.0 License.
-
----
 
 ## Contact
 
