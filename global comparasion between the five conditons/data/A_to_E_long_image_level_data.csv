@@ -1,0 +1,2401 @@
+Img,AOI,condition,metric,value
+1,CTA,A,VAI (%),0.0
+1,CTA,B,VAI (%),11.9
+1,CTA,C,VAI (%),27.8
+1,CTA,D,VAI (%),11.1
+1,CTA,E,VAI (%),16.4
+2,CTA,A,VAI (%),11.4
+2,CTA,B,VAI (%),21.9
+2,CTA,C,VAI (%),28.7
+2,CTA,D,VAI (%),28.4
+2,CTA,E,VAI (%),22.8
+3,CTA,A,VAI (%),24.0
+3,CTA,B,VAI (%),12.8
+3,CTA,C,VAI (%),26.5
+3,CTA,D,VAI (%),12.3
+3,CTA,E,VAI (%),20.3
+4,CTA,A,VAI (%),48.6
+4,CTA,B,VAI (%),36.3
+4,CTA,C,VAI (%),40.1
+4,CTA,D,VAI (%),25.4
+4,CTA,E,VAI (%),14.9
+5,CTA,A,VAI (%),6.0
+5,CTA,B,VAI (%),46.5
+5,CTA,C,VAI (%),47.0
+5,CTA,D,VAI (%),
+5,CTA,E,VAI (%),25.4
+6,CTA,A,VAI (%),2.3
+6,CTA,B,VAI (%),14.0
+6,CTA,C,VAI (%),37.0
+6,CTA,D,VAI (%),8.3
+6,CTA,E,VAI (%),16.5
+7,CTA,A,VAI (%),26.1
+7,CTA,B,VAI (%),36.5
+7,CTA,C,VAI (%),13.2
+7,CTA,D,VAI (%),31.9
+7,CTA,E,VAI (%),32.4
+8,CTA,A,VAI (%),37.7
+8,CTA,B,VAI (%),18.9
+8,CTA,C,VAI (%),41.4
+8,CTA,D,VAI (%),35.7
+8,CTA,E,VAI (%),40.0
+9,CTA,A,VAI (%),28.9
+9,CTA,B,VAI (%),26.2
+9,CTA,C,VAI (%),37.8
+9,CTA,D,VAI (%),40.5
+9,CTA,E,VAI (%),29.5
+10,CTA,A,VAI (%),44.4
+10,CTA,B,VAI (%),55.5
+10,CTA,C,VAI (%),45.0
+10,CTA,D,VAI (%),48.3
+10,CTA,E,VAI (%),52.3
+11,CTA,A,VAI (%),6.9
+11,CTA,B,VAI (%),29.0
+11,CTA,C,VAI (%),30.1
+11,CTA,D,VAI (%),10.3
+11,CTA,E,VAI (%),46.7
+12,CTA,A,VAI (%),4.5
+12,CTA,B,VAI (%),8.2
+12,CTA,C,VAI (%),40.7
+12,CTA,D,VAI (%),8.3
+12,CTA,E,VAI (%),45.3
+13,CTA,A,VAI (%),8.2
+13,CTA,B,VAI (%),4.3
+13,CTA,C,VAI (%),9.2
+13,CTA,D,VAI (%),6.8
+13,CTA,E,VAI (%),15.9
+14,CTA,A,VAI (%),28.8
+14,CTA,B,VAI (%),30.8
+14,CTA,C,VAI (%),18.7
+14,CTA,D,VAI (%),42.7
+14,CTA,E,VAI (%),29.4
+15,CTA,A,VAI (%),24.3
+15,CTA,B,VAI (%),45.6
+15,CTA,C,VAI (%),57.2
+15,CTA,D,VAI (%),41.9
+15,CTA,E,VAI (%),8.0
+16,CTA,A,VAI (%),24.9
+16,CTA,B,VAI (%),38.6
+16,CTA,C,VAI (%),35.4
+16,CTA,D,VAI (%),24.7
+16,CTA,E,VAI (%),33.1
+17,CTA,A,VAI (%),41.8
+17,CTA,B,VAI (%),46.5
+17,CTA,C,VAI (%),55.7
+17,CTA,D,VAI (%),54.6
+17,CTA,E,VAI (%),46.7
+18,CTA,A,VAI (%),11.5
+18,CTA,B,VAI (%),18.2
+18,CTA,C,VAI (%),26.4
+18,CTA,D,VAI (%),6.9
+18,CTA,E,VAI (%),
+19,CTA,A,VAI (%),5.0
+19,CTA,B,VAI (%),16.6
+19,CTA,C,VAI (%),41.7
+19,CTA,D,VAI (%),13.0
+19,CTA,E,VAI (%),12.4
+20,CTA,A,VAI (%),0.0
+20,CTA,B,VAI (%),15.3
+20,CTA,C,VAI (%),17.8
+20,CTA,D,VAI (%),12.9
+20,CTA,E,VAI (%),
+1,CTA,A,TTFF (s),
+1,CTA,B,TTFF (s),3.62
+1,CTA,C,TTFF (s),2.74
+1,CTA,D,TTFF (s),4.19
+1,CTA,E,TTFF (s),2.91
+2,CTA,A,TTFF (s),4.19
+2,CTA,B,TTFF (s),3.1
+2,CTA,C,TTFF (s),2.96
+2,CTA,D,TTFF (s),3.42
+2,CTA,E,TTFF (s),3.47
+3,CTA,A,TTFF (s),3.26
+3,CTA,B,TTFF (s),3.06
+3,CTA,C,TTFF (s),2.8
+3,CTA,D,TTFF (s),3.58
+3,CTA,E,TTFF (s),3.47
+4,CTA,A,TTFF (s),2.74
+4,CTA,B,TTFF (s),2.98
+4,CTA,C,TTFF (s),2.1
+4,CTA,D,TTFF (s),3.5
+4,CTA,E,TTFF (s),3.73
+5,CTA,A,TTFF (s),5.08
+5,CTA,B,TTFF (s),2.46
+5,CTA,C,TTFF (s),2.85
+5,CTA,D,TTFF (s),
+5,CTA,E,TTFF (s),3.22
+6,CTA,A,TTFF (s),4.01
+6,CTA,B,TTFF (s),3.84
+6,CTA,C,TTFF (s),3.37
+6,CTA,D,TTFF (s),4.63
+6,CTA,E,TTFF (s),3.52
+7,CTA,A,TTFF (s),3.07
+7,CTA,B,TTFF (s),2.94
+7,CTA,C,TTFF (s),2.97
+7,CTA,D,TTFF (s),3.05
+7,CTA,E,TTFF (s),2.44
+8,CTA,A,TTFF (s),3.38
+8,CTA,B,TTFF (s),3.62
+8,CTA,C,TTFF (s),2.06
+8,CTA,D,TTFF (s),2.95
+8,CTA,E,TTFF (s),3.66
+9,CTA,A,TTFF (s),3.68
+9,CTA,B,TTFF (s),2.56
+9,CTA,C,TTFF (s),2.57
+9,CTA,D,TTFF (s),2.93
+9,CTA,E,TTFF (s),3.41
+10,CTA,A,TTFF (s),1.71
+10,CTA,B,TTFF (s),1.41
+10,CTA,C,TTFF (s),1.28
+10,CTA,D,TTFF (s),1.45
+10,CTA,E,TTFF (s),1.2
+11,CTA,A,TTFF (s),4.19
+11,CTA,B,TTFF (s),3.43
+11,CTA,C,TTFF (s),2.73
+11,CTA,D,TTFF (s),2.83
+11,CTA,E,TTFF (s),2.37
+12,CTA,A,TTFF (s),4.32
+12,CTA,B,TTFF (s),2.35
+12,CTA,C,TTFF (s),2.69
+12,CTA,D,TTFF (s),2.59
+12,CTA,E,TTFF (s),1.84
+13,CTA,A,TTFF (s),2.52
+13,CTA,B,TTFF (s),4.88
+13,CTA,C,TTFF (s),4.03
+13,CTA,D,TTFF (s),3.88
+13,CTA,E,TTFF (s),4.37
+14,CTA,A,TTFF (s),3.25
+14,CTA,B,TTFF (s),2.54
+14,CTA,C,TTFF (s),2.25
+14,CTA,D,TTFF (s),2.53
+14,CTA,E,TTFF (s),3.53
+15,CTA,A,TTFF (s),1.8
+15,CTA,B,TTFF (s),1.77
+15,CTA,C,TTFF (s),1.67
+15,CTA,D,TTFF (s),1.96
+15,CTA,E,TTFF (s),3.4
+16,CTA,A,TTFF (s),3.36
+16,CTA,B,TTFF (s),2.12
+16,CTA,C,TTFF (s),2.66
+16,CTA,D,TTFF (s),2.75
+16,CTA,E,TTFF (s),2.93
+17,CTA,A,TTFF (s),0.86
+17,CTA,B,TTFF (s),1.12
+17,CTA,C,TTFF (s),1.55
+17,CTA,D,TTFF (s),1.56
+17,CTA,E,TTFF (s),2.06
+18,CTA,A,TTFF (s),4.32
+18,CTA,B,TTFF (s),3.36
+18,CTA,C,TTFF (s),3.18
+18,CTA,D,TTFF (s),3.89
+18,CTA,E,TTFF (s),
+19,CTA,A,TTFF (s),3.64
+19,CTA,B,TTFF (s),2.57
+19,CTA,C,TTFF (s),2.58
+19,CTA,D,TTFF (s),3.17
+19,CTA,E,TTFF (s),3.83
+20,CTA,A,TTFF (s),
+20,CTA,B,TTFF (s),4.3
+20,CTA,C,TTFF (s),3.7
+20,CTA,D,TTFF (s),3.04
+20,CTA,E,TTFF (s),
+1,CTA,A,Time spent (s),0.0
+1,CTA,B,Time spent (s),0.36
+1,CTA,C,Time spent (s),0.41
+1,CTA,D,Time spent (s),0.35
+1,CTA,E,Time spent (s),0.42
+2,CTA,A,Time spent (s),0.59
+2,CTA,B,Time spent (s),0.62
+2,CTA,C,Time spent (s),0.51
+2,CTA,D,Time spent (s),0.45
+2,CTA,E,Time spent (s),0.34
+3,CTA,A,Time spent (s),0.56
+3,CTA,B,Time spent (s),0.44
+3,CTA,C,Time spent (s),0.82
+3,CTA,D,Time spent (s),0.22
+3,CTA,E,Time spent (s),0.75
+4,CTA,A,Time spent (s),1.15
+4,CTA,B,Time spent (s),0.71
+4,CTA,C,Time spent (s),0.78
+4,CTA,D,Time spent (s),0.81
+4,CTA,E,Time spent (s),0.41
+5,CTA,A,Time spent (s),0.22
+5,CTA,B,Time spent (s),0.54
+5,CTA,C,Time spent (s),0.73
+5,CTA,D,Time spent (s),
+5,CTA,E,Time spent (s),0.51
+6,CTA,A,Time spent (s),0.09
+6,CTA,B,Time spent (s),0.4
+6,CTA,C,Time spent (s),0.6
+6,CTA,D,Time spent (s),0.3
+6,CTA,E,Time spent (s),1.09
+7,CTA,A,Time spent (s),0.6
+7,CTA,B,Time spent (s),0.71
+7,CTA,C,Time spent (s),0.59
+7,CTA,D,Time spent (s),0.32
+7,CTA,E,Time spent (s),0.65
+8,CTA,A,Time spent (s),0.76
+8,CTA,B,Time spent (s),0.32
+8,CTA,C,Time spent (s),1.06
+8,CTA,D,Time spent (s),0.5
+8,CTA,E,Time spent (s),0.82
+9,CTA,A,Time spent (s),0.52
+9,CTA,B,Time spent (s),0.66
+9,CTA,C,Time spent (s),0.67
+9,CTA,D,Time spent (s),0.79
+9,CTA,E,Time spent (s),0.77
+10,CTA,A,Time spent (s),0.69
+10,CTA,B,Time spent (s),0.7
+10,CTA,C,Time spent (s),0.92
+10,CTA,D,Time spent (s),0.59
+10,CTA,E,Time spent (s),1.03
+11,CTA,A,Time spent (s),0.24
+11,CTA,B,Time spent (s),0.31
+11,CTA,C,Time spent (s),0.26
+11,CTA,D,Time spent (s),0.22
+11,CTA,E,Time spent (s),0.5
+12,CTA,A,Time spent (s),0.27
+12,CTA,B,Time spent (s),0.34
+12,CTA,C,Time spent (s),0.8
+12,CTA,D,Time spent (s),0.27
+12,CTA,E,Time spent (s),0.81
+13,CTA,A,Time spent (s),0.45
+13,CTA,B,Time spent (s),0.49
+13,CTA,C,Time spent (s),0.16
+13,CTA,D,Time spent (s),0.18
+13,CTA,E,Time spent (s),0.37
+14,CTA,A,Time spent (s),0.41
+14,CTA,B,Time spent (s),0.29
+14,CTA,C,Time spent (s),0.42
+14,CTA,D,Time spent (s),0.42
+14,CTA,E,Time spent (s),0.51
+15,CTA,A,Time spent (s),0.32
+15,CTA,B,Time spent (s),0.8
+15,CTA,C,Time spent (s),0.66
+15,CTA,D,Time spent (s),0.83
+15,CTA,E,Time spent (s),0.67
+16,CTA,A,Time spent (s),0.48
+16,CTA,B,Time spent (s),0.4
+16,CTA,C,Time spent (s),0.6
+16,CTA,D,Time spent (s),0.32
+16,CTA,E,Time spent (s),0.54
+17,CTA,A,Time spent (s),0.86
+17,CTA,B,Time spent (s),1.13
+17,CTA,C,Time spent (s),0.86
+17,CTA,D,Time spent (s),0.67
+17,CTA,E,Time spent (s),0.68
+18,CTA,A,Time spent (s),0.39
+18,CTA,B,Time spent (s),0.46
+18,CTA,C,Time spent (s),0.4
+18,CTA,D,Time spent (s),0.32
+18,CTA,E,Time spent (s),
+19,CTA,A,Time spent (s),0.47
+19,CTA,B,Time spent (s),0.19
+19,CTA,C,Time spent (s),0.72
+19,CTA,D,Time spent (s),0.23
+19,CTA,E,Time spent (s),0.51
+20,CTA,A,Time spent (s),0.0
+20,CTA,B,Time spent (s),0.37
+20,CTA,C,Time spent (s),0.6
+20,CTA,D,Time spent (s),0.5
+20,CTA,E,Time spent (s),
+1,CTA,A,Fixations,0.0
+1,CTA,B,Fixations,7.0
+1,CTA,C,Fixations,18.0
+1,CTA,D,Fixations,7.0
+1,CTA,E,Fixations,9.0
+2,CTA,A,Fixations,8.0
+2,CTA,B,Fixations,18.0
+2,CTA,C,Fixations,23.0
+2,CTA,D,Fixations,25.0
+2,CTA,E,Fixations,14.0
+3,CTA,A,Fixations,16.0
+3,CTA,B,Fixations,10.0
+3,CTA,C,Fixations,29.0
+3,CTA,D,Fixations,7.0
+3,CTA,E,Fixations,22.0
+4,CTA,A,Fixations,65.0
+4,CTA,B,Fixations,37.0
+4,CTA,C,Fixations,46.0
+4,CTA,D,Fixations,32.0
+4,CTA,E,Fixations,13.0
+5,CTA,A,Fixations,3.0
+5,CTA,B,Fixations,40.0
+5,CTA,C,Fixations,48.0
+5,CTA,D,Fixations,
+5,CTA,E,Fixations,20.0
+6,CTA,A,Fixations,1.0
+6,CTA,B,Fixations,10.0
+6,CTA,C,Fixations,33.0
+6,CTA,D,Fixations,6.0
+6,CTA,E,Fixations,22.0
+7,CTA,A,Fixations,17.0
+7,CTA,B,Fixations,33.0
+7,CTA,C,Fixations,11.0
+7,CTA,D,Fixations,26.0
+7,CTA,E,Fixations,41.0
+8,CTA,A,Fixations,36.0
+8,CTA,B,Fixations,12.0
+8,CTA,C,Fixations,51.0
+8,CTA,D,Fixations,27.0
+8,CTA,E,Fixations,46.0
+9,CTA,A,Fixations,22.0
+9,CTA,B,Fixations,22.0
+9,CTA,C,Fixations,39.0
+9,CTA,D,Fixations,45.0
+9,CTA,E,Fixations,38.0
+10,CTA,A,Fixations,35.0
+10,CTA,B,Fixations,58.0
+10,CTA,C,Fixations,55.0
+10,CTA,D,Fixations,39.0
+10,CTA,E,Fixations,68.0
+11,CTA,A,Fixations,3.0
+11,CTA,B,Fixations,15.0
+11,CTA,C,Fixations,12.0
+11,CTA,D,Fixations,4.0
+11,CTA,E,Fixations,34.0
+12,CTA,A,Fixations,2.0
+12,CTA,B,Fixations,4.0
+12,CTA,C,Fixations,48.0
+12,CTA,D,Fixations,4.0
+12,CTA,E,Fixations,51.0
+13,CTA,A,Fixations,4.0
+13,CTA,B,Fixations,3.0
+13,CTA,C,Fixations,4.0
+13,CTA,D,Fixations,3.0
+13,CTA,E,Fixations,10.0
+14,CTA,A,Fixations,22.0
+14,CTA,B,Fixations,18.0
+14,CTA,C,Fixations,9.0
+14,CTA,D,Fixations,28.0
+14,CTA,E,Fixations,29.0
+15,CTA,A,Fixations,13.0
+15,CTA,B,Fixations,48.0
+15,CTA,C,Fixations,57.0
+15,CTA,D,Fixations,52.0
+15,CTA,E,Fixations,6.0
+16,CTA,A,Fixations,21.0
+16,CTA,B,Fixations,23.0
+16,CTA,C,Fixations,34.0
+16,CTA,D,Fixations,14.0
+16,CTA,E,Fixations,28.0
+17,CTA,A,Fixations,30.0
+17,CTA,B,Fixations,69.0
+17,CTA,C,Fixations,70.0
+17,CTA,D,Fixations,57.0
+17,CTA,E,Fixations,42.0
+18,CTA,A,Fixations,5.0
+18,CTA,B,Fixations,12.0
+18,CTA,C,Fixations,24.0
+18,CTA,D,Fixations,4.0
+18,CTA,E,Fixations,
+19,CTA,A,Fixations,3.0
+19,CTA,B,Fixations,9.0
+19,CTA,C,Fixations,45.0
+19,CTA,D,Fixations,5.0
+19,CTA,E,Fixations,11.0
+20,CTA,A,Fixations,0.0
+20,CTA,B,Fixations,11.0
+20,CTA,C,Fixations,15.0
+20,CTA,D,Fixations,12.0
+20,CTA,E,Fixations,
+1,CTA,A,Fix. duration (s),
+1,CTA,B,Fix. duration (s),0.27
+1,CTA,C,Fix. duration (s),0.26
+1,CTA,D,Fix. duration (s),0.25
+1,CTA,E,Fix. duration (s),0.29
+2,CTA,A,Fix. duration (s),0.36
+2,CTA,B,Fix. duration (s),0.27
+2,CTA,C,Fix. duration (s),0.24
+2,CTA,D,Fix. duration (s),0.2
+2,CTA,E,Fix. duration (s),0.23
+3,CTA,A,Fix. duration (s),0.32
+3,CTA,B,Fix. duration (s),0.23
+3,CTA,C,Fix. duration (s),0.23
+3,CTA,D,Fix. duration (s),0.15
+3,CTA,E,Fix. duration (s),0.26
+4,CTA,A,Fix. duration (s),0.29
+4,CTA,B,Fix. duration (s),0.22
+4,CTA,C,Fix. duration (s),0.22
+4,CTA,D,Fix. duration (s),0.25
+4,CTA,E,Fix. duration (s),0.21
+5,CTA,A,Fix. duration (s),0.22
+5,CTA,B,Fix. duration (s),0.2
+5,CTA,C,Fix. duration (s),0.26
+5,CTA,D,Fix. duration (s),
+5,CTA,E,Fix. duration (s),0.24
+6,CTA,A,Fix. duration (s),0.09
+6,CTA,B,Fix. duration (s),0.19
+6,CTA,C,Fix. duration (s),0.25
+6,CTA,D,Fix. duration (s),0.24
+6,CTA,E,Fix. duration (s),0.27
+7,CTA,A,Fix. duration (s),0.36
+7,CTA,B,Fix. duration (s),0.26
+7,CTA,C,Fix. duration (s),0.29
+7,CTA,D,Fix. duration (s),0.17
+7,CTA,E,Fix. duration (s),0.22
+8,CTA,A,Fix. duration (s),0.3
+8,CTA,B,Fix. duration (s),0.22
+8,CTA,C,Fix. duration (s),0.22
+8,CTA,D,Fix. duration (s),0.25
+8,CTA,E,Fix. duration (s),0.26
+9,CTA,A,Fix. duration (s),0.28
+9,CTA,B,Fix. duration (s),0.25
+9,CTA,C,Fix. duration (s),0.25
+9,CTA,D,Fix. duration (s),0.28
+9,CTA,E,Fix. duration (s),0.21
+10,CTA,A,Fix. duration (s),0.27
+10,CTA,B,Fix. duration (s),0.2
+10,CTA,C,Fix. duration (s),0.23
+10,CTA,D,Fix. duration (s),0.22
+10,CTA,E,Fix. duration (s),0.23
+11,CTA,A,Fix. duration (s),0.24
+11,CTA,B,Fix. duration (s),0.24
+11,CTA,C,Fix. duration (s),0.23
+11,CTA,D,Fix. duration (s),0.22
+11,CTA,E,Fix. duration (s),0.21
+12,CTA,A,Fix. duration (s),0.27
+12,CTA,B,Fix. duration (s),0.26
+12,CTA,C,Fix. duration (s),0.23
+12,CTA,D,Fix. duration (s),0.24
+12,CTA,E,Fix. duration (s),0.24
+13,CTA,A,Fix. duration (s),0.32
+13,CTA,B,Fix. duration (s),0.33
+13,CTA,C,Fix. duration (s),0.16
+13,CTA,D,Fix. duration (s),0.18
+13,CTA,E,Fix. duration (s),0.25
+14,CTA,A,Fix. duration (s),0.23
+14,CTA,B,Fix. duration (s),0.18
+14,CTA,C,Fix. duration (s),0.3
+14,CTA,D,Fix. duration (s),0.22
+14,CTA,E,Fix. duration (s),0.24
+15,CTA,A,Fix. duration (s),0.2
+15,CTA,B,Fix. duration (s),0.26
+15,CTA,C,Fix. duration (s),0.19
+15,CTA,D,Fix. duration (s),0.22
+15,CTA,E,Fix. duration (s),0.35
+16,CTA,A,Fix. duration (s),0.25
+16,CTA,B,Fix. duration (s),0.24
+16,CTA,C,Fix. duration (s),0.22
+16,CTA,D,Fix. duration (s),0.22
+16,CTA,E,Fix. duration (s),0.24
+17,CTA,A,Fix. duration (s),0.34
+17,CTA,B,Fix. duration (s),0.23
+17,CTA,C,Fix. duration (s),0.22
+17,CTA,D,Fix. duration (s),0.21
+17,CTA,E,Fix. duration (s),0.23
+18,CTA,A,Fix. duration (s),0.39
+18,CTA,B,Fix. duration (s),0.22
+18,CTA,C,Fix. duration (s),0.17
+18,CTA,D,Fix. duration (s),0.26
+18,CTA,E,Fix. duration (s),
+19,CTA,A,Fix. duration (s),0.27
+19,CTA,B,Fix. duration (s),0.13
+19,CTA,C,Fix. duration (s),0.24
+19,CTA,D,Fix. duration (s),0.23
+19,CTA,E,Fix. duration (s),0.19
+20,CTA,A,Fix. duration (s),
+20,CTA,B,Fix. duration (s),0.24
+20,CTA,C,Fix. duration (s),0.27
+20,CTA,D,Fix. duration (s),0.21
+20,CTA,E,Fix. duration (s),
+1,CTA,A,FFD (s),
+1,CTA,B,FFD (s),0.27
+1,CTA,C,FFD (s),0.27
+1,CTA,D,FFD (s),0.22
+1,CTA,E,FFD (s),0.31
+2,CTA,A,FFD (s),0.36
+2,CTA,B,FFD (s),0.25
+2,CTA,C,FFD (s),0.24
+2,CTA,D,FFD (s),0.17
+2,CTA,E,FFD (s),0.22
+3,CTA,A,FFD (s),0.34
+3,CTA,B,FFD (s),0.22
+3,CTA,C,FFD (s),0.28
+3,CTA,D,FFD (s),0.17
+3,CTA,E,FFD (s),0.28
+4,CTA,A,FFD (s),0.31
+4,CTA,B,FFD (s),0.23
+4,CTA,C,FFD (s),0.2
+4,CTA,D,FFD (s),0.31
+4,CTA,E,FFD (s),0.27
+5,CTA,A,FFD (s),0.22
+5,CTA,B,FFD (s),0.22
+5,CTA,C,FFD (s),0.27
+5,CTA,D,FFD (s),
+5,CTA,E,FFD (s),0.25
+6,CTA,A,FFD (s),0.09
+6,CTA,B,FFD (s),0.22
+6,CTA,C,FFD (s),0.26
+6,CTA,D,FFD (s),0.23
+6,CTA,E,FFD (s),0.29
+7,CTA,A,FFD (s),0.34
+7,CTA,B,FFD (s),0.28
+7,CTA,C,FFD (s),0.27
+7,CTA,D,FFD (s),0.18
+7,CTA,E,FFD (s),0.21
+8,CTA,A,FFD (s),0.3
+8,CTA,B,FFD (s),0.22
+8,CTA,C,FFD (s),0.23
+8,CTA,D,FFD (s),0.22
+8,CTA,E,FFD (s),0.28
+9,CTA,A,FFD (s),0.28
+9,CTA,B,FFD (s),0.22
+9,CTA,C,FFD (s),0.26
+9,CTA,D,FFD (s),0.26
+9,CTA,E,FFD (s),0.23
+10,CTA,A,FFD (s),0.28
+10,CTA,B,FFD (s),0.2
+10,CTA,C,FFD (s),0.26
+10,CTA,D,FFD (s),0.2
+10,CTA,E,FFD (s),0.21
+11,CTA,A,FFD (s),0.24
+11,CTA,B,FFD (s),0.22
+11,CTA,C,FFD (s),0.25
+11,CTA,D,FFD (s),0.22
+11,CTA,E,FFD (s),0.24
+12,CTA,A,FFD (s),0.27
+12,CTA,B,FFD (s),0.21
+12,CTA,C,FFD (s),0.23
+12,CTA,D,FFD (s),0.24
+12,CTA,E,FFD (s),0.22
+13,CTA,A,FFD (s),0.32
+13,CTA,B,FFD (s),0.36
+13,CTA,C,FFD (s),0.16
+13,CTA,D,FFD (s),0.18
+13,CTA,E,FFD (s),0.28
+14,CTA,A,FFD (s),0.23
+14,CTA,B,FFD (s),0.2
+14,CTA,C,FFD (s),0.27
+14,CTA,D,FFD (s),0.23
+14,CTA,E,FFD (s),0.27
+15,CTA,A,FFD (s),0.19
+15,CTA,B,FFD (s),0.28
+15,CTA,C,FFD (s),0.21
+15,CTA,D,FFD (s),0.25
+15,CTA,E,FFD (s),0.39
+16,CTA,A,FFD (s),0.25
+16,CTA,B,FFD (s),0.23
+16,CTA,C,FFD (s),0.24
+16,CTA,D,FFD (s),0.21
+16,CTA,E,FFD (s),0.23
+17,CTA,A,FFD (s),0.36
+17,CTA,B,FFD (s),0.26
+17,CTA,C,FFD (s),0.23
+17,CTA,D,FFD (s),0.22
+17,CTA,E,FFD (s),0.23
+18,CTA,A,FFD (s),0.39
+18,CTA,B,FFD (s),0.22
+18,CTA,C,FFD (s),0.19
+18,CTA,D,FFD (s),0.29
+18,CTA,E,FFD (s),
+19,CTA,A,FFD (s),0.27
+19,CTA,B,FFD (s),0.12
+19,CTA,C,FFD (s),0.25
+19,CTA,D,FFD (s),0.23
+19,CTA,E,FFD (s),0.17
+20,CTA,A,FFD (s),
+20,CTA,B,FFD (s),0.26
+20,CTA,C,FFD (s),0.26
+20,CTA,D,FFD (s),0.26
+20,CTA,E,FFD (s),
+1,CTA,A,K-coefficient,
+1,CTA,B,K-coefficient,1.16
+1,CTA,C,K-coefficient,0.05
+1,CTA,D,K-coefficient,0.95
+1,CTA,E,K-coefficient,0.14
+2,CTA,A,K-coefficient,0.32
+2,CTA,B,K-coefficient,0.07
+2,CTA,C,K-coefficient,0.15
+2,CTA,D,K-coefficient,-0.27
+2,CTA,E,K-coefficient,0.72
+3,CTA,A,K-coefficient,0.3
+3,CTA,B,K-coefficient,-0.2
+3,CTA,C,K-coefficient,0.34
+3,CTA,D,K-coefficient,-0.4
+3,CTA,E,K-coefficient,1.27
+4,CTA,A,K-coefficient,0.39
+4,CTA,B,K-coefficient,0.63
+4,CTA,C,K-coefficient,0.18
+4,CTA,D,K-coefficient,0.02
+4,CTA,E,K-coefficient,0.29
+5,CTA,A,K-coefficient,-0.18
+5,CTA,B,K-coefficient,0.49
+5,CTA,C,K-coefficient,0.13
+5,CTA,D,K-coefficient,
+5,CTA,E,K-coefficient,0.26
+6,CTA,A,K-coefficient,-0.23
+6,CTA,B,K-coefficient,-0.46
+6,CTA,C,K-coefficient,0.49
+6,CTA,D,K-coefficient,-0.55
+6,CTA,E,K-coefficient,1.31
+7,CTA,A,K-coefficient,-0.24
+7,CTA,B,K-coefficient,0.5
+7,CTA,C,K-coefficient,0.24
+7,CTA,D,K-coefficient,-0.05
+7,CTA,E,K-coefficient,0.07
+8,CTA,A,K-coefficient,0.57
+8,CTA,B,K-coefficient,0.2
+8,CTA,C,K-coefficient,0.54
+8,CTA,D,K-coefficient,-0.08
+8,CTA,E,K-coefficient,0.24
+9,CTA,A,K-coefficient,0.48
+9,CTA,B,K-coefficient,0.57
+9,CTA,C,K-coefficient,0.49
+9,CTA,D,K-coefficient,0.5
+9,CTA,E,K-coefficient,0.48
+10,CTA,A,K-coefficient,-0.49
+10,CTA,B,K-coefficient,-0.09
+10,CTA,C,K-coefficient,0.07
+10,CTA,D,K-coefficient,0.09
+10,CTA,E,K-coefficient,-0.17
+11,CTA,A,K-coefficient,0.46
+11,CTA,B,K-coefficient,0.16
+11,CTA,C,K-coefficient,0.41
+11,CTA,D,K-coefficient,1.1
+11,CTA,E,K-coefficient,0.06
+12,CTA,A,K-coefficient,0.04
+12,CTA,B,K-coefficient,0.23
+12,CTA,C,K-coefficient,0.38
+12,CTA,D,K-coefficient,-0.04
+12,CTA,E,K-coefficient,0.35
+13,CTA,A,K-coefficient,0.78
+13,CTA,B,K-coefficient,1.73
+13,CTA,C,K-coefficient,-0.22
+13,CTA,D,K-coefficient,-1.96
+13,CTA,E,K-coefficient,0.56
+14,CTA,A,K-coefficient,0.29
+14,CTA,B,K-coefficient,0.17
+14,CTA,C,K-coefficient,1.71
+14,CTA,D,K-coefficient,-0.01
+14,CTA,E,K-coefficient,0.08
+15,CTA,A,K-coefficient,-0.45
+15,CTA,B,K-coefficient,0.18
+15,CTA,C,K-coefficient,-0.6
+15,CTA,D,K-coefficient,0.34
+15,CTA,E,K-coefficient,-0.47
+16,CTA,A,K-coefficient,0.09
+16,CTA,B,K-coefficient,-0.09
+16,CTA,C,K-coefficient,-0.04
+16,CTA,D,K-coefficient,0.38
+16,CTA,E,K-coefficient,0.52
+17,CTA,A,K-coefficient,-0.09
+17,CTA,B,K-coefficient,0.08
+17,CTA,C,K-coefficient,0.49
+17,CTA,D,K-coefficient,0.18
+17,CTA,E,K-coefficient,0.04
+18,CTA,A,K-coefficient,0.8
+18,CTA,B,K-coefficient,-0.15
+18,CTA,C,K-coefficient,0.31
+18,CTA,D,K-coefficient,0.37
+18,CTA,E,K-coefficient,
+19,CTA,A,K-coefficient,0.89
+19,CTA,B,K-coefficient,0.07
+19,CTA,C,K-coefficient,0.25
+19,CTA,D,K-coefficient,0.15
+19,CTA,E,K-coefficient,-1.02
+20,CTA,A,K-coefficient,
+20,CTA,B,K-coefficient,-0.19
+20,CTA,C,K-coefficient,0.38
+20,CTA,D,K-coefficient,-0.19
+20,CTA,E,K-coefficient,
+1,CTA,A,Revisits,0.0
+1,CTA,B,Revisits,0.05
+1,CTA,C,Revisits,0.24
+1,CTA,D,Revisits,0.05
+1,CTA,E,Revisits,0.05
+2,CTA,A,Revisits,0.13
+2,CTA,B,Revisits,0.35
+2,CTA,C,Revisits,0.38
+2,CTA,D,Revisits,0.4
+2,CTA,E,Revisits,0.22
+3,CTA,A,Revisits,0.2
+3,CTA,B,Revisits,0.2
+3,CTA,C,Revisits,0.42
+3,CTA,D,Revisits,0.05
+3,CTA,E,Revisits,0.37
+4,CTA,A,Revisits,0.81
+4,CTA,B,Revisits,0.4
+4,CTA,C,Revisits,1.42
+4,CTA,D,Revisits,0.6
+4,CTA,E,Revisits,0.2
+5,CTA,A,Revisits,0.0
+5,CTA,B,Revisits,0.74
+5,CTA,C,Revisits,0.95
+5,CTA,D,Revisits,
+5,CTA,E,Revisits,0.25
+6,CTA,A,Revisits,0.0
+6,CTA,B,Revisits,0.1
+6,CTA,C,Revisits,0.35
+6,CTA,D,Revisits,0.0
+6,CTA,E,Revisits,0.25
+7,CTA,A,Revisits,0.05
+7,CTA,B,Revisits,0.3
+7,CTA,C,Revisits,0.15
+7,CTA,D,Revisits,0.45
+7,CTA,E,Revisits,0.95
+8,CTA,A,Revisits,0.72
+8,CTA,B,Revisits,0.05
+8,CTA,C,Revisits,0.8
+8,CTA,D,Revisits,0.37
+8,CTA,E,Revisits,0.47
+9,CTA,A,Revisits,0.19
+9,CTA,B,Revisits,0.3
+9,CTA,C,Revisits,0.68
+9,CTA,D,Revisits,0.85
+9,CTA,E,Revisits,0.74
+10,CTA,A,Revisits,0.6
+10,CTA,B,Revisits,0.95
+10,CTA,C,Revisits,0.67
+10,CTA,D,Revisits,0.5
+10,CTA,E,Revisits,0.9
+11,CTA,A,Revisits,0.0
+11,CTA,B,Revisits,0.16
+11,CTA,C,Revisits,0.0
+11,CTA,D,Revisits,0.0
+11,CTA,E,Revisits,0.35
+12,CTA,A,Revisits,0.0
+12,CTA,B,Revisits,0.06
+12,CTA,C,Revisits,0.75
+12,CTA,D,Revisits,0.05
+12,CTA,E,Revisits,1.0
+13,CTA,A,Revisits,0.0
+13,CTA,B,Revisits,0.11
+13,CTA,C,Revisits,0.0
+13,CTA,D,Revisits,0.0
+13,CTA,E,Revisits,0.0
+14,CTA,A,Revisits,0.35
+14,CTA,B,Revisits,0.37
+14,CTA,C,Revisits,0.16
+14,CTA,D,Revisits,0.45
+14,CTA,E,Revisits,0.43
+15,CTA,A,Revisits,0.22
+15,CTA,B,Revisits,0.95
+15,CTA,C,Revisits,1.05
+15,CTA,D,Revisits,0.62
+15,CTA,E,Revisits,0.07
+16,CTA,A,Revisits,0.4
+16,CTA,B,Revisits,0.35
+16,CTA,C,Revisits,0.38
+16,CTA,D,Revisits,0.26
+16,CTA,E,Revisits,0.37
+17,CTA,A,Revisits,0.45
+17,CTA,B,Revisits,1.14
+17,CTA,C,Revisits,1.3
+17,CTA,D,Revisits,1.21
+17,CTA,E,Revisits,0.57
+18,CTA,A,Revisits,0.0
+18,CTA,B,Revisits,0.05
+18,CTA,C,Revisits,0.45
+18,CTA,D,Revisits,0.07
+18,CTA,E,Revisits,
+19,CTA,A,Revisits,0.1
+19,CTA,B,Revisits,0.15
+19,CTA,C,Revisits,0.57
+19,CTA,D,Revisits,0.0
+19,CTA,E,Revisits,0.21
+20,CTA,A,Revisits,0.0
+20,CTA,B,Revisits,0.05
+20,CTA,C,Revisits,0.3
+20,CTA,D,Revisits,0.33
+20,CTA,E,Revisits,
+1,Headline,A,VAI (%),11.7
+1,Headline,B,VAI (%),54.9
+1,Headline,C,VAI (%),57.5
+1,Headline,D,VAI (%),46.0
+1,Headline,E,VAI (%),50.6
+2,Headline,A,VAI (%),38.3
+2,Headline,B,VAI (%),54.2
+2,Headline,C,VAI (%),53.7
+2,Headline,D,VAI (%),39.7
+2,Headline,E,VAI (%),34.0
+3,Headline,A,VAI (%),32.1
+3,Headline,B,VAI (%),40.1
+3,Headline,C,VAI (%),49.3
+3,Headline,D,VAI (%),26.5
+3,Headline,E,VAI (%),26.3
+4,Headline,A,VAI (%),40.6
+4,Headline,B,VAI (%),59.6
+4,Headline,C,VAI (%),58.8
+4,Headline,D,VAI (%),41.8
+4,Headline,E,VAI (%),54.4
+5,Headline,A,VAI (%),48.8
+5,Headline,B,VAI (%),55.7
+5,Headline,C,VAI (%),54.5
+5,Headline,D,VAI (%),
+5,Headline,E,VAI (%),60.3
+6,Headline,A,VAI (%),80.0
+6,Headline,B,VAI (%),50.1
+6,Headline,C,VAI (%),69.1
+6,Headline,D,VAI (%),73.1
+6,Headline,E,VAI (%),71.5
+7,Headline,A,VAI (%),47.3
+7,Headline,B,VAI (%),69.8
+7,Headline,C,VAI (%),57.5
+7,Headline,D,VAI (%),51.7
+7,Headline,E,VAI (%),58.6
+8,Headline,A,VAI (%),38.0
+8,Headline,B,VAI (%),51.6
+8,Headline,C,VAI (%),62.1
+8,Headline,D,VAI (%),62.6
+8,Headline,E,VAI (%),40.6
+9,Headline,A,VAI (%),46.0
+9,Headline,B,VAI (%),44.8
+9,Headline,C,VAI (%),49.5
+9,Headline,D,VAI (%),30.1
+9,Headline,E,VAI (%),54.6
+10,Headline,A,VAI (%),16.5
+10,Headline,B,VAI (%),13.0
+10,Headline,C,VAI (%),25.6
+10,Headline,D,VAI (%),20.5
+10,Headline,E,VAI (%),5.3
+11,Headline,A,VAI (%),37.8
+11,Headline,B,VAI (%),49.2
+11,Headline,C,VAI (%),63.2
+11,Headline,D,VAI (%),33.6
+11,Headline,E,VAI (%),60.0
+12,Headline,A,VAI (%),53.7
+12,Headline,B,VAI (%),58.8
+12,Headline,C,VAI (%),57.7
+12,Headline,D,VAI (%),37.6
+12,Headline,E,VAI (%),35.5
+13,Headline,A,VAI (%),32.8
+13,Headline,B,VAI (%),35.0
+13,Headline,C,VAI (%),54.6
+13,Headline,D,VAI (%),44.9
+13,Headline,E,VAI (%),55.2
+14,Headline,A,VAI (%),36.9
+14,Headline,B,VAI (%),53.4
+14,Headline,C,VAI (%),47.7
+14,Headline,D,VAI (%),38.8
+14,Headline,E,VAI (%),23.2
+15,Headline,A,VAI (%),25.4
+15,Headline,B,VAI (%),50.0
+15,Headline,C,VAI (%),35.4
+15,Headline,D,VAI (%),45.0
+15,Headline,E,VAI (%),18.8
+16,Headline,A,VAI (%),47.7
+16,Headline,B,VAI (%),53.7
+16,Headline,C,VAI (%),51.4
+16,Headline,D,VAI (%),50.4
+16,Headline,E,VAI (%),46.4
+17,Headline,A,VAI (%),41.6
+17,Headline,B,VAI (%),35.8
+17,Headline,C,VAI (%),36.8
+17,Headline,D,VAI (%),21.4
+17,Headline,E,VAI (%),29.3
+18,Headline,A,VAI (%),38.6
+18,Headline,B,VAI (%),54.9
+18,Headline,C,VAI (%),43.1
+18,Headline,D,VAI (%),36.0
+18,Headline,E,VAI (%),
+19,Headline,A,VAI (%),29.1
+19,Headline,B,VAI (%),43.6
+19,Headline,C,VAI (%),47.7
+19,Headline,D,VAI (%),41.4
+19,Headline,E,VAI (%),31.6
+20,Headline,A,VAI (%),49.3
+20,Headline,B,VAI (%),37.5
+20,Headline,C,VAI (%),57.3
+20,Headline,D,VAI (%),48.1
+20,Headline,E,VAI (%),
+1,Headline,A,TTFF (s),0.14
+1,Headline,B,TTFF (s),2.04
+1,Headline,C,TTFF (s),1.56
+1,Headline,D,TTFF (s),1.68
+1,Headline,E,TTFF (s),1.65
+2,Headline,A,TTFF (s),1.11
+2,Headline,B,TTFF (s),1.56
+2,Headline,C,TTFF (s),1.14
+2,Headline,D,TTFF (s),2.4
+2,Headline,E,TTFF (s),1.89
+3,Headline,A,TTFF (s),1.51
+3,Headline,B,TTFF (s),1.48
+3,Headline,C,TTFF (s),1.3
+3,Headline,D,TTFF (s),2.17
+3,Headline,E,TTFF (s),2.15
+4,Headline,A,TTFF (s),1.25
+4,Headline,B,TTFF (s),0.97
+4,Headline,C,TTFF (s),0.97
+4,Headline,D,TTFF (s),1.15
+4,Headline,E,TTFF (s),1.73
+5,Headline,A,TTFF (s),2.05
+5,Headline,B,TTFF (s),1.49
+5,Headline,C,TTFF (s),1.47
+5,Headline,D,TTFF (s),
+5,Headline,E,TTFF (s),1.52
+6,Headline,A,TTFF (s),0.91
+6,Headline,B,TTFF (s),1.68
+6,Headline,C,TTFF (s),1.1
+6,Headline,D,TTFF (s),0.83
+6,Headline,E,TTFF (s),1.43
+7,Headline,A,TTFF (s),1.21
+7,Headline,B,TTFF (s),1.12
+7,Headline,C,TTFF (s),1.21
+7,Headline,D,TTFF (s),1.38
+7,Headline,E,TTFF (s),2.34
+8,Headline,A,TTFF (s),1.04
+8,Headline,B,TTFF (s),1.36
+8,Headline,C,TTFF (s),1.63
+8,Headline,D,TTFF (s),1.34
+8,Headline,E,TTFF (s),2.32
+9,Headline,A,TTFF (s),0.85
+9,Headline,B,TTFF (s),1.84
+9,Headline,C,TTFF (s),1.5
+9,Headline,D,TTFF (s),1.93
+9,Headline,E,TTFF (s),1.12
+10,Headline,A,TTFF (s),2.96
+10,Headline,B,TTFF (s),4.62
+10,Headline,C,TTFF (s),3.18
+10,Headline,D,TTFF (s),3.64
+10,Headline,E,TTFF (s),2.57
+11,Headline,A,TTFF (s),1.76
+11,Headline,B,TTFF (s),0.98
+11,Headline,C,TTFF (s),1.36
+11,Headline,D,TTFF (s),2.3
+11,Headline,E,TTFF (s),1.6
+12,Headline,A,TTFF (s),1.76
+12,Headline,B,TTFF (s),1.41
+12,Headline,C,TTFF (s),1.24
+12,Headline,D,TTFF (s),1.82
+12,Headline,E,TTFF (s),2.48
+13,Headline,A,TTFF (s),2.11
+13,Headline,B,TTFF (s),1.49
+13,Headline,C,TTFF (s),1.72
+13,Headline,D,TTFF (s),1.82
+13,Headline,E,TTFF (s),1.53
+14,Headline,A,TTFF (s),2.67
+14,Headline,B,TTFF (s),2.46
+14,Headline,C,TTFF (s),1.19
+14,Headline,D,TTFF (s),2.43
+14,Headline,E,TTFF (s),3.0
+15,Headline,A,TTFF (s),1.41
+15,Headline,B,TTFF (s),1.53
+15,Headline,C,TTFF (s),2.5
+15,Headline,D,TTFF (s),2.99
+15,Headline,E,TTFF (s),0.26
+16,Headline,A,TTFF (s),1.71
+16,Headline,B,TTFF (s),1.38
+16,Headline,C,TTFF (s),1.36
+16,Headline,D,TTFF (s),1.16
+16,Headline,E,TTFF (s),1.77
+17,Headline,A,TTFF (s),2.55
+17,Headline,B,TTFF (s),2.4
+17,Headline,C,TTFF (s),2.68
+17,Headline,D,TTFF (s),1.8
+17,Headline,E,TTFF (s),2.77
+18,Headline,A,TTFF (s),1.63
+18,Headline,B,TTFF (s),1.75
+18,Headline,C,TTFF (s),1.85
+18,Headline,D,TTFF (s),1.15
+18,Headline,E,TTFF (s),
+19,Headline,A,TTFF (s),2.23
+19,Headline,B,TTFF (s),1.73
+19,Headline,C,TTFF (s),1.16
+19,Headline,D,TTFF (s),1.47
+19,Headline,E,TTFF (s),1.81
+20,Headline,A,TTFF (s),2.02
+20,Headline,B,TTFF (s),1.46
+20,Headline,C,TTFF (s),1.48
+20,Headline,D,TTFF (s),1.15
+20,Headline,E,TTFF (s),
+1,Headline,A,Time spent (s),0.31
+1,Headline,B,Time spent (s),1.1
+1,Headline,C,Time spent (s),0.6
+1,Headline,D,Time spent (s),0.81
+1,Headline,E,Time spent (s),0.58
+2,Headline,A,Time spent (s),0.68
+2,Headline,B,Time spent (s),0.58
+2,Headline,C,Time spent (s),1.26
+2,Headline,D,Time spent (s),0.97
+2,Headline,E,Time spent (s),0.6
+3,Headline,A,Time spent (s),0.61
+3,Headline,B,Time spent (s),0.65
+3,Headline,C,Time spent (s),0.65
+3,Headline,D,Time spent (s),0.37
+3,Headline,E,Time spent (s),0.76
+4,Headline,A,Time spent (s),0.56
+4,Headline,B,Time spent (s),1.03
+4,Headline,C,Time spent (s),0.89
+4,Headline,D,Time spent (s),0.8
+4,Headline,E,Time spent (s),0.78
+5,Headline,A,Time spent (s),0.61
+5,Headline,B,Time spent (s),0.81
+5,Headline,C,Time spent (s),1.07
+5,Headline,D,Time spent (s),
+5,Headline,E,Time spent (s),1.02
+6,Headline,A,Time spent (s),2.61
+6,Headline,B,Time spent (s),1.04
+6,Headline,C,Time spent (s),1.59
+6,Headline,D,Time spent (s),1.99
+6,Headline,E,Time spent (s),2.35
+7,Headline,A,Time spent (s),0.63
+7,Headline,B,Time spent (s),1.14
+7,Headline,C,Time spent (s),0.78
+7,Headline,D,Time spent (s),0.55
+7,Headline,E,Time spent (s),0.5
+8,Headline,A,Time spent (s),0.94
+8,Headline,B,Time spent (s),1.03
+8,Headline,C,Time spent (s),0.91
+8,Headline,D,Time spent (s),0.71
+8,Headline,E,Time spent (s),0.86
+9,Headline,A,Time spent (s),0.73
+9,Headline,B,Time spent (s),0.9
+9,Headline,C,Time spent (s),0.9
+9,Headline,D,Time spent (s),0.84
+9,Headline,E,Time spent (s),0.89
+10,Headline,A,Time spent (s),0.53
+10,Headline,B,Time spent (s),0.24
+10,Headline,C,Time spent (s),0.57
+10,Headline,D,Time spent (s),0.58
+10,Headline,E,Time spent (s),0.24
+11,Headline,A,Time spent (s),0.66
+11,Headline,B,Time spent (s),0.85
+11,Headline,C,Time spent (s),0.82
+11,Headline,D,Time spent (s),0.49
+11,Headline,E,Time spent (s),1.09
+12,Headline,A,Time spent (s),0.68
+12,Headline,B,Time spent (s),0.64
+12,Headline,C,Time spent (s),0.94
+12,Headline,D,Time spent (s),0.66
+12,Headline,E,Time spent (s),0.46
+13,Headline,A,Time spent (s),0.93
+13,Headline,B,Time spent (s),0.49
+13,Headline,C,Time spent (s),0.81
+13,Headline,D,Time spent (s),0.68
+13,Headline,E,Time spent (s),0.74
+14,Headline,A,Time spent (s),0.53
+14,Headline,B,Time spent (s),0.75
+14,Headline,C,Time spent (s),0.71
+14,Headline,D,Time spent (s),0.77
+14,Headline,E,Time spent (s),0.44
+15,Headline,A,Time spent (s),0.37
+15,Headline,B,Time spent (s),0.86
+15,Headline,C,Time spent (s),0.73
+15,Headline,D,Time spent (s),0.66
+15,Headline,E,Time spent (s),0.2
+16,Headline,A,Time spent (s),0.53
+16,Headline,B,Time spent (s),0.96
+16,Headline,C,Time spent (s),0.98
+16,Headline,D,Time spent (s),0.76
+16,Headline,E,Time spent (s),0.47
+17,Headline,A,Time spent (s),0.86
+17,Headline,B,Time spent (s),0.45
+17,Headline,C,Time spent (s),0.54
+17,Headline,D,Time spent (s),0.41
+17,Headline,E,Time spent (s),0.49
+18,Headline,A,Time spent (s),0.75
+18,Headline,B,Time spent (s),0.91
+18,Headline,C,Time spent (s),0.5
+18,Headline,D,Time spent (s),1.0
+18,Headline,E,Time spent (s),
+19,Headline,A,Time spent (s),0.32
+19,Headline,B,Time spent (s),0.5
+19,Headline,C,Time spent (s),0.68
+19,Headline,D,Time spent (s),0.48
+19,Headline,E,Time spent (s),0.72
+20,Headline,A,Time spent (s),0.68
+20,Headline,B,Time spent (s),0.77
+20,Headline,C,Time spent (s),1.11
+20,Headline,D,Time spent (s),0.76
+20,Headline,E,Time spent (s),
+1,Headline,A,Fixations,4.0
+1,Headline,B,Fixations,69.0
+1,Headline,C,Fixations,53.0
+1,Headline,D,Fixations,56.0
+1,Headline,E,Fixations,43.0
+2,Headline,A,Fixations,26.0
+2,Headline,B,Fixations,46.0
+2,Headline,C,Fixations,83.0
+2,Headline,D,Fixations,60.0
+2,Headline,E,Fixations,36.0
+3,Headline,A,Fixations,19.0
+3,Headline,B,Fixations,40.0
+3,Headline,C,Fixations,49.0
+3,Headline,D,Fixations,19.0
+3,Headline,E,Fixations,28.0
+4,Headline,A,Fixations,26.0
+4,Headline,B,Fixations,88.0
+4,Headline,C,Fixations,69.0
+4,Headline,D,Fixations,43.0
+4,Headline,E,Fixations,59.0
+5,Headline,A,Fixations,43.0
+5,Headline,B,Fixations,59.0
+5,Headline,C,Fixations,73.0
+5,Headline,D,Fixations,
+5,Headline,E,Fixations,86.0
+6,Headline,A,Fixations,199.0
+6,Headline,B,Fixations,67.0
+6,Headline,C,Fixations,144.0
+6,Headline,D,Fixations,184.0
+6,Headline,E,Fixations,177.0
+7,Headline,A,Fixations,36.0
+7,Headline,B,Fixations,98.0
+7,Headline,C,Fixations,74.0
+7,Headline,D,Fixations,38.0
+7,Headline,E,Fixations,46.0
+8,Headline,A,Fixations,34.0
+8,Headline,B,Fixations,70.0
+8,Headline,C,Fixations,88.0
+8,Headline,D,Fixations,67.0
+8,Headline,E,Fixations,47.0
+9,Headline,A,Fixations,37.0
+9,Headline,B,Fixations,60.0
+9,Headline,C,Fixations,57.0
+9,Headline,D,Fixations,34.0
+9,Headline,E,Fixations,55.0
+10,Headline,A,Fixations,9.0
+10,Headline,B,Fixations,8.0
+10,Headline,C,Fixations,21.0
+10,Headline,D,Fixations,19.0
+10,Headline,E,Fixations,3.0
+11,Headline,A,Fixations,30.0
+11,Headline,B,Fixations,49.0
+11,Headline,C,Fixations,67.0
+11,Headline,D,Fixations,27.0
+11,Headline,E,Fixations,75.0
+12,Headline,A,Fixations,43.0
+12,Headline,B,Fixations,60.0
+12,Headline,C,Fixations,85.0
+12,Headline,D,Fixations,33.0
+12,Headline,E,Fixations,26.0
+13,Headline,A,Fixations,31.0
+13,Headline,B,Fixations,29.0
+13,Headline,C,Fixations,68.0
+13,Headline,D,Fixations,39.0
+13,Headline,E,Fixations,56.0
+14,Headline,A,Fixations,32.0
+14,Headline,B,Fixations,59.0
+14,Headline,C,Fixations,38.0
+14,Headline,D,Fixations,40.0
+14,Headline,E,Fixations,17.0
+15,Headline,A,Fixations,15.0
+15,Headline,B,Fixations,56.0
+15,Headline,C,Fixations,39.0
+15,Headline,D,Fixations,53.0
+15,Headline,E,Fixations,7.0
+16,Headline,A,Fixations,31.0
+16,Headline,B,Fixations,78.0
+16,Headline,C,Fixations,72.0
+16,Headline,D,Fixations,56.0
+16,Headline,E,Fixations,37.0
+17,Headline,A,Fixations,36.0
+17,Headline,B,Fixations,25.0
+17,Headline,C,Fixations,38.0
+17,Headline,D,Fixations,15.0
+17,Headline,E,Fixations,20.0
+18,Headline,A,Fixations,31.0
+18,Headline,B,Fixations,70.0
+18,Headline,C,Fixations,34.0
+18,Headline,D,Fixations,42.0
+18,Headline,E,Fixations,
+19,Headline,A,Fixations,19.0
+19,Headline,B,Fixations,29.0
+19,Headline,C,Fixations,48.0
+19,Headline,D,Fixations,23.0
+19,Headline,E,Fixations,28.0
+20,Headline,A,Fixations,44.0
+20,Headline,B,Fixations,38.0
+20,Headline,C,Fixations,85.0
+20,Headline,D,Fixations,56.0
+20,Headline,E,Fixations,
+1,Headline,A,Fix. duration (s),0.23
+1,Headline,B,Fix. duration (s),0.26
+1,Headline,C,Fix. duration (s),0.21
+1,Headline,D,Fix. duration (s),0.23
+1,Headline,E,Fix. duration (s),0.22
+2,Headline,A,Fix. duration (s),0.3
+2,Headline,B,Fix. duration (s),0.21
+2,Headline,C,Fix. duration (s),0.24
+2,Headline,D,Fix. duration (s),0.2
+2,Headline,E,Fix. duration (s),0.2
+3,Headline,A,Fix. duration (s),0.35
+3,Headline,B,Fix. duration (s),0.2
+3,Headline,C,Fix. duration (s),0.18
+3,Headline,D,Fix. duration (s),0.18
+3,Headline,E,Fix. duration (s),0.26
+4,Headline,A,Fix. duration (s),0.28
+4,Headline,B,Fix. duration (s),0.19
+4,Headline,C,Fix. duration (s),0.21
+4,Headline,D,Fix. duration (s),0.24
+4,Headline,E,Fix. duration (s),0.23
+5,Headline,A,Fix. duration (s),0.24
+5,Headline,B,Fix. duration (s),0.24
+5,Headline,C,Fix. duration (s),0.22
+5,Headline,D,Fix. duration (s),
+5,Headline,E,Fix. duration (s),0.22
+6,Headline,A,Fix. duration (s),0.27
+6,Headline,B,Fix. duration (s),0.24
+6,Headline,C,Fix. duration (s),0.21
+6,Headline,D,Fix. duration (s),0.21
+6,Headline,E,Fix. duration (s),0.24
+7,Headline,A,Fix. duration (s),0.29
+7,Headline,B,Fix. duration (s),0.22
+7,Headline,C,Fix. duration (s),0.18
+7,Headline,D,Fix. duration (s),0.23
+7,Headline,E,Fix. duration (s),0.22
+8,Headline,A,Fix. duration (s),0.3
+8,Headline,B,Fix. duration (s),0.2
+8,Headline,C,Fix. duration (s),0.2
+8,Headline,D,Fix. duration (s),0.2
+8,Headline,E,Fix. duration (s),0.23
+9,Headline,A,Fix. duration (s),0.25
+9,Headline,B,Fix. duration (s),0.2
+9,Headline,C,Fix. duration (s),0.23
+9,Headline,D,Fix. duration (s),0.25
+9,Headline,E,Fix. duration (s),0.24
+10,Headline,A,Fix. duration (s),0.34
+10,Headline,B,Fix. duration (s),0.17
+10,Headline,C,Fix. duration (s),0.26
+10,Headline,D,Fix. duration (s),0.23
+10,Headline,E,Fix. duration (s),0.14
+11,Headline,A,Fix. duration (s),0.25
+11,Headline,B,Fix. duration (s),0.26
+11,Headline,C,Fix. duration (s),0.24
+11,Headline,D,Fix. duration (s),0.19
+11,Headline,E,Fix. duration (s),0.27
+12,Headline,A,Fix. duration (s),0.28
+12,Headline,B,Fix. duration (s),0.19
+12,Headline,C,Fix. duration (s),0.18
+12,Headline,D,Fix. duration (s),0.24
+12,Headline,E,Fix. duration (s),0.22
+13,Headline,A,Fix. duration (s),0.32
+13,Headline,B,Fix. duration (s),0.21
+13,Headline,C,Fix. duration (s),0.19
+13,Headline,D,Fix. duration (s),0.27
+13,Headline,E,Fix. duration (s),0.23
+14,Headline,A,Fix. duration (s),0.2
+14,Headline,B,Fix. duration (s),0.24
+14,Headline,C,Fix. duration (s),0.27
+14,Headline,D,Fix. duration (s),0.25
+14,Headline,E,Fix. duration (s),0.24
+15,Headline,A,Fix. duration (s),0.19
+15,Headline,B,Fix. duration (s),0.25
+15,Headline,C,Fix. duration (s),0.23
+15,Headline,D,Fix. duration (s),0.22
+15,Headline,E,Fix. duration (s),0.16
+16,Headline,A,Fix. duration (s),0.28
+16,Headline,B,Fix. duration (s),0.2
+16,Headline,C,Fix. duration (s),0.2
+16,Headline,D,Fix. duration (s),0.2
+16,Headline,E,Fix. duration (s),0.18
+17,Headline,A,Fix. duration (s),0.33
+17,Headline,B,Fix. duration (s),0.21
+17,Headline,C,Fix. duration (s),0.18
+17,Headline,D,Fix. duration (s),0.19
+17,Headline,E,Fix. duration (s),0.25
+18,Headline,A,Fix. duration (s),0.29
+18,Headline,B,Fix. duration (s),0.21
+18,Headline,C,Fix. duration (s),0.21
+18,Headline,D,Fix. duration (s),0.26
+18,Headline,E,Fix. duration (s),
+19,Headline,A,Fix. duration (s),0.17
+19,Headline,B,Fix. duration (s),0.23
+19,Headline,C,Fix. duration (s),0.23
+19,Headline,D,Fix. duration (s),0.27
+19,Headline,E,Fix. duration (s),0.24
+20,Headline,A,Fix. duration (s),0.23
+20,Headline,B,Fix. duration (s),0.25
+20,Headline,C,Fix. duration (s),0.23
+20,Headline,D,Fix. duration (s),0.21
+20,Headline,E,Fix. duration (s),
+1,Headline,A,FFD (s),0.27
+1,Headline,B,FFD (s),0.24
+1,Headline,C,FFD (s),0.2
+1,Headline,D,FFD (s),0.22
+1,Headline,E,FFD (s),0.22
+2,Headline,A,FFD (s),0.3
+2,Headline,B,FFD (s),0.21
+2,Headline,C,FFD (s),0.26
+2,Headline,D,FFD (s),0.2
+2,Headline,E,FFD (s),0.21
+3,Headline,A,FFD (s),0.36
+3,Headline,B,FFD (s),0.24
+3,Headline,C,FFD (s),0.18
+3,Headline,D,FFD (s),0.17
+3,Headline,E,FFD (s),0.25
+4,Headline,A,FFD (s),0.29
+4,Headline,B,FFD (s),0.19
+4,Headline,C,FFD (s),0.19
+4,Headline,D,FFD (s),0.25
+4,Headline,E,FFD (s),0.23
+5,Headline,A,FFD (s),0.22
+5,Headline,B,FFD (s),0.25
+5,Headline,C,FFD (s),0.23
+5,Headline,D,FFD (s),
+5,Headline,E,FFD (s),0.23
+6,Headline,A,FFD (s),0.29
+6,Headline,B,FFD (s),0.22
+6,Headline,C,FFD (s),0.21
+6,Headline,D,FFD (s),0.21
+6,Headline,E,FFD (s),0.27
+7,Headline,A,FFD (s),0.31
+7,Headline,B,FFD (s),0.23
+7,Headline,C,FFD (s),0.21
+7,Headline,D,FFD (s),0.25
+7,Headline,E,FFD (s),0.22
+8,Headline,A,FFD (s),0.32
+8,Headline,B,FFD (s),0.19
+8,Headline,C,FFD (s),0.18
+8,Headline,D,FFD (s),0.2
+8,Headline,E,FFD (s),0.24
+9,Headline,A,FFD (s),0.25
+9,Headline,B,FFD (s),0.19
+9,Headline,C,FFD (s),0.26
+9,Headline,D,FFD (s),0.27
+9,Headline,E,FFD (s),0.24
+10,Headline,A,FFD (s),0.34
+10,Headline,B,FFD (s),0.2
+10,Headline,C,FFD (s),0.3
+10,Headline,D,FFD (s),0.22
+10,Headline,E,FFD (s),0.09
+11,Headline,A,FFD (s),0.26
+11,Headline,B,FFD (s),0.28
+11,Headline,C,FFD (s),0.26
+11,Headline,D,FFD (s),0.21
+11,Headline,E,FFD (s),0.25
+12,Headline,A,FFD (s),0.31
+12,Headline,B,FFD (s),0.2
+12,Headline,C,FFD (s),0.17
+12,Headline,D,FFD (s),0.25
+12,Headline,E,FFD (s),0.23
+13,Headline,A,FFD (s),0.32
+13,Headline,B,FFD (s),0.23
+13,Headline,C,FFD (s),0.18
+13,Headline,D,FFD (s),0.3
+13,Headline,E,FFD (s),0.26
+14,Headline,A,FFD (s),0.2
+14,Headline,B,FFD (s),0.26
+14,Headline,C,FFD (s),0.27
+14,Headline,D,FFD (s),0.2
+14,Headline,E,FFD (s),0.28
+15,Headline,A,FFD (s),0.16
+15,Headline,B,FFD (s),0.25
+15,Headline,C,FFD (s),0.22
+15,Headline,D,FFD (s),0.25
+15,Headline,E,FFD (s),0.19
+16,Headline,A,FFD (s),0.28
+16,Headline,B,FFD (s),0.19
+16,Headline,C,FFD (s),0.22
+16,Headline,D,FFD (s),0.19
+16,Headline,E,FFD (s),0.2
+17,Headline,A,FFD (s),0.29
+17,Headline,B,FFD (s),0.23
+17,Headline,C,FFD (s),0.24
+17,Headline,D,FFD (s),0.19
+17,Headline,E,FFD (s),0.24
+18,Headline,A,FFD (s),0.31
+18,Headline,B,FFD (s),0.2
+18,Headline,C,FFD (s),0.18
+18,Headline,D,FFD (s),0.26
+18,Headline,E,FFD (s),
+19,Headline,A,FFD (s),0.17
+19,Headline,B,FFD (s),0.2
+19,Headline,C,FFD (s),0.21
+19,Headline,D,FFD (s),0.26
+19,Headline,E,FFD (s),0.2
+20,Headline,A,FFD (s),0.25
+20,Headline,B,FFD (s),0.24
+20,Headline,C,FFD (s),0.22
+20,Headline,D,FFD (s),0.19
+20,Headline,E,FFD (s),
+1,Headline,A,K-coefficient,-0.38
+1,Headline,B,K-coefficient,0.21
+1,Headline,C,K-coefficient,0.09
+1,Headline,D,K-coefficient,0.25
+1,Headline,E,K-coefficient,0.21
+2,Headline,A,K-coefficient,0.17
+2,Headline,B,K-coefficient,0.08
+2,Headline,C,K-coefficient,0.37
+2,Headline,D,K-coefficient,0.24
+2,Headline,E,K-coefficient,-0.02
+3,Headline,A,K-coefficient,-0.17
+3,Headline,B,K-coefficient,-0.14
+3,Headline,C,K-coefficient,-0.43
+3,Headline,D,K-coefficient,-0.06
+3,Headline,E,K-coefficient,0.07
+4,Headline,A,K-coefficient,-0.74
+4,Headline,B,K-coefficient,-0.46
+4,Headline,C,K-coefficient,0.03
+4,Headline,D,K-coefficient,-0.2
+4,Headline,E,K-coefficient,-0.5
+5,Headline,A,K-coefficient,-0.1
+5,Headline,B,K-coefficient,-0.14
+5,Headline,C,K-coefficient,0.02
+5,Headline,D,K-coefficient,
+5,Headline,E,K-coefficient,0.25
+6,Headline,A,K-coefficient,0.35
+6,Headline,B,K-coefficient,-0.39
+6,Headline,C,K-coefficient,0.15
+6,Headline,D,K-coefficient,0.26
+6,Headline,E,K-coefficient,0.11
+7,Headline,A,K-coefficient,0.01
+7,Headline,B,K-coefficient,0.06
+7,Headline,C,K-coefficient,-0.28
+7,Headline,D,K-coefficient,0.3
+7,Headline,E,K-coefficient,0.36
+8,Headline,A,K-coefficient,0.04
+8,Headline,B,K-coefficient,0.33
+8,Headline,C,K-coefficient,-0.22
+8,Headline,D,K-coefficient,-0.34
+8,Headline,E,K-coefficient,-0.27
+9,Headline,A,K-coefficient,-0.22
+9,Headline,B,K-coefficient,0.29
+9,Headline,C,K-coefficient,-0.01
+9,Headline,D,K-coefficient,0.3
+9,Headline,E,K-coefficient,0.16
+10,Headline,A,K-coefficient,-0.19
+10,Headline,B,K-coefficient,0.78
+10,Headline,C,K-coefficient,0.33
+10,Headline,D,K-coefficient,0.8
+10,Headline,E,K-coefficient,-0.75
+11,Headline,A,K-coefficient,-0.07
+11,Headline,B,K-coefficient,0.14
+11,Headline,C,K-coefficient,0.38
+11,Headline,D,K-coefficient,-0.19
+11,Headline,E,K-coefficient,0.54
+12,Headline,A,K-coefficient,0.07
+12,Headline,B,K-coefficient,0.25
+12,Headline,C,K-coefficient,0.12
+12,Headline,D,K-coefficient,0.43
+12,Headline,E,K-coefficient,-0.19
+13,Headline,A,K-coefficient,0.23
+13,Headline,B,K-coefficient,0.28
+13,Headline,C,K-coefficient,-0.17
+13,Headline,D,K-coefficient,0.5
+13,Headline,E,K-coefficient,-0.12
+14,Headline,A,K-coefficient,0.01
+14,Headline,B,K-coefficient,0.3
+14,Headline,C,K-coefficient,0.43
+14,Headline,D,K-coefficient,0.25
+14,Headline,E,K-coefficient,0.25
+15,Headline,A,K-coefficient,-0.5
+15,Headline,B,K-coefficient,0.19
+15,Headline,C,K-coefficient,0.34
+15,Headline,D,K-coefficient,0.26
+15,Headline,E,K-coefficient,0.25
+16,Headline,A,K-coefficient,-0.25
+16,Headline,B,K-coefficient,-0.25
+16,Headline,C,K-coefficient,0.23
+16,Headline,D,K-coefficient,0.17
+16,Headline,E,K-coefficient,0.0
+17,Headline,A,K-coefficient,0.02
+17,Headline,B,K-coefficient,-0.33
+17,Headline,C,K-coefficient,-0.51
+17,Headline,D,K-coefficient,0.21
+17,Headline,E,K-coefficient,-0.17
+18,Headline,A,K-coefficient,-0.21
+18,Headline,B,K-coefficient,0.04
+18,Headline,C,K-coefficient,-0.11
+18,Headline,D,K-coefficient,0.23
+18,Headline,E,K-coefficient,
+19,Headline,A,K-coefficient,-0.46
+19,Headline,B,K-coefficient,-0.12
+19,Headline,C,K-coefficient,0.26
+19,Headline,D,K-coefficient,0.35
+19,Headline,E,K-coefficient,0.31
+20,Headline,A,K-coefficient,0.5
+20,Headline,B,K-coefficient,0.17
+20,Headline,C,K-coefficient,0.2
+20,Headline,D,K-coefficient,0.35
+20,Headline,E,K-coefficient,
+1,Headline,A,Revisits,0.0
+1,Headline,B,Revisits,0.81
+1,Headline,C,Revisits,0.8
+1,Headline,D,Revisits,0.71
+1,Headline,E,Revisits,0.8
+2,Headline,A,Revisits,0.38
+2,Headline,B,Revisits,0.9
+2,Headline,C,Revisits,1.1
+2,Headline,D,Revisits,0.8
+2,Headline,E,Revisits,0.85
+3,Headline,A,Revisits,0.29
+3,Headline,B,Revisits,0.57
+3,Headline,C,Revisits,0.7
+3,Headline,D,Revisits,0.42
+3,Headline,E,Revisits,0.33
+4,Headline,A,Revisits,0.14
+4,Headline,B,Revisits,1.25
+4,Headline,C,Revisits,1.3
+4,Headline,D,Revisits,0.4
+4,Headline,E,Revisits,0.7
+5,Headline,A,Revisits,0.8
+5,Headline,B,Revisits,1.1
+5,Headline,C,Revisits,1.0
+5,Headline,D,Revisits,
+5,Headline,E,Revisits,1.85
+6,Headline,A,Revisits,2.9
+6,Headline,B,Revisits,0.81
+6,Headline,C,Revisits,2.6
+6,Headline,D,Revisits,1.71
+6,Headline,E,Revisits,1.95
+7,Headline,A,Revisits,0.63
+7,Headline,B,Revisits,1.5
+7,Headline,C,Revisits,0.9
+7,Headline,D,Revisits,0.5
+7,Headline,E,Revisits,0.7
+8,Headline,A,Revisits,0.58
+8,Headline,B,Revisits,0.62
+8,Headline,C,Revisits,0.85
+8,Headline,D,Revisits,1.4
+8,Headline,E,Revisits,0.63
+9,Headline,A,Revisits,0.38
+9,Headline,B,Revisits,0.95
+9,Headline,C,Revisits,1.21
+9,Headline,D,Revisits,0.48
+9,Headline,E,Revisits,0.6
+10,Headline,A,Revisits,0.17
+10,Headline,B,Revisits,0.07
+10,Headline,C,Revisits,0.25
+10,Headline,D,Revisits,0.28
+10,Headline,E,Revisits,0.08
+11,Headline,A,Revisits,0.47
+11,Headline,B,Revisits,0.74
+11,Headline,C,Revisits,1.4
+11,Headline,D,Revisits,0.2
+11,Headline,E,Revisits,1.0
+12,Headline,A,Revisits,0.79
+12,Headline,B,Revisits,1.1
+12,Headline,C,Revisits,1.65
+12,Headline,D,Revisits,0.53
+12,Headline,E,Revisits,0.45
+13,Headline,A,Revisits,0.24
+13,Headline,B,Revisits,0.3
+13,Headline,C,Revisits,1.1
+13,Headline,D,Revisits,0.57
+13,Headline,E,Revisits,0.8
+14,Headline,A,Revisits,0.65
+14,Headline,B,Revisits,1.25
+14,Headline,C,Revisits,0.65
+14,Headline,D,Revisits,0.95
+14,Headline,E,Revisits,0.2
+15,Headline,A,Revisits,0.33
+15,Headline,B,Revisits,0.81
+15,Headline,C,Revisits,0.6
+15,Headline,D,Revisits,0.8
+15,Headline,E,Revisits,0.0
+16,Headline,A,Revisits,0.33
+16,Headline,B,Revisits,1.05
+16,Headline,C,Revisits,1.24
+16,Headline,D,Revisits,0.7
+16,Headline,E,Revisits,0.7
+17,Headline,A,Revisits,0.61
+17,Headline,B,Revisits,0.24
+17,Headline,C,Revisits,0.6
+17,Headline,D,Revisits,0.33
+17,Headline,E,Revisits,0.24
+18,Headline,A,Revisits,0.3
+18,Headline,B,Revisits,1.05
+18,Headline,C,Revisits,0.32
+18,Headline,D,Revisits,0.48
+18,Headline,E,Revisits,
+19,Headline,A,Revisits,0.39
+19,Headline,B,Revisits,0.53
+19,Headline,C,Revisits,0.57
+19,Headline,D,Revisits,0.32
+19,Headline,E,Revisits,0.3
+20,Headline,A,Revisits,0.95
+20,Headline,B,Revisits,0.57
+20,Headline,C,Revisits,1.32
+20,Headline,D,Revisits,1.19
+20,Headline,E,Revisits,
+1,Product,A,VAI (%),27.2
+1,Product,B,VAI (%),42.9
+1,Product,C,VAI (%),60.3
+1,Product,D,VAI (%),54.6
+1,Product,E,VAI (%),62.5
+2,Product,A,VAI (%),39.0
+2,Product,B,VAI (%),34.8
+2,Product,C,VAI (%),14.4
+2,Product,D,VAI (%),31.7
+2,Product,E,VAI (%),57.7
+3,Product,A,VAI (%),38.8
+3,Product,B,VAI (%),21.8
+3,Product,C,VAI (%),37.7
+3,Product,D,VAI (%),36.9
+3,Product,E,VAI (%),43.3
+4,Product,A,VAI (%),56.4
+4,Product,B,VAI (%),10.9
+4,Product,C,VAI (%),60.5
+4,Product,D,VAI (%),57.5
+4,Product,E,VAI (%),61.6
+5,Product,A,VAI (%),38.4
+5,Product,B,VAI (%),14.9
+5,Product,C,VAI (%),18.4
+5,Product,D,VAI (%),
+5,Product,E,VAI (%),39.7
+6,Product,A,VAI (%),37.6
+6,Product,B,VAI (%),52.9
+6,Product,C,VAI (%),41.4
+6,Product,D,VAI (%),39.0
+6,Product,E,VAI (%),38.3
+7,Product,A,VAI (%),74.5
+7,Product,B,VAI (%),65.8
+7,Product,C,VAI (%),68.7
+7,Product,D,VAI (%),66.7
+7,Product,E,VAI (%),71.0
+8,Product,A,VAI (%),58.2
+8,Product,B,VAI (%),61.3
+8,Product,C,VAI (%),62.4
+8,Product,D,VAI (%),69.2
+8,Product,E,VAI (%),54.6
+9,Product,A,VAI (%),59.7
+9,Product,B,VAI (%),51.2
+9,Product,C,VAI (%),53.6
+9,Product,D,VAI (%),61.1
+9,Product,E,VAI (%),52.1
+10,Product,A,VAI (%),63.9
+10,Product,B,VAI (%),65.4
+10,Product,C,VAI (%),60.6
+10,Product,D,VAI (%),62.3
+10,Product,E,VAI (%),57.4
+11,Product,A,VAI (%),54.1
+11,Product,B,VAI (%),35.7
+11,Product,C,VAI (%),42.6
+11,Product,D,VAI (%),39.2
+11,Product,E,VAI (%),51.1
+12,Product,A,VAI (%),43.0
+12,Product,B,VAI (%),53.8
+12,Product,C,VAI (%),51.8
+12,Product,D,VAI (%),54.4
+12,Product,E,VAI (%),48.0
+13,Product,A,VAI (%),35.9
+13,Product,B,VAI (%),42.0
+13,Product,C,VAI (%),55.7
+13,Product,D,VAI (%),48.0
+13,Product,E,VAI (%),44.2
+14,Product,A,VAI (%),55.9
+14,Product,B,VAI (%),50.4
+14,Product,C,VAI (%),46.7
+14,Product,D,VAI (%),48.7
+14,Product,E,VAI (%),44.5
+15,Product,A,VAI (%),41.4
+15,Product,B,VAI (%),44.7
+15,Product,C,VAI (%),62.0
+15,Product,D,VAI (%),48.1
+15,Product,E,VAI (%),42.6
+16,Product,A,VAI (%),53.2
+16,Product,B,VAI (%),50.5
+16,Product,C,VAI (%),62.7
+16,Product,D,VAI (%),50.1
+16,Product,E,VAI (%),58.0
+17,Product,A,VAI (%),55.9
+17,Product,B,VAI (%),48.4
+17,Product,C,VAI (%),45.4
+17,Product,D,VAI (%),53.1
+17,Product,E,VAI (%),51.5
+18,Product,A,VAI (%),54.0
+18,Product,B,VAI (%),43.6
+18,Product,C,VAI (%),46.3
+18,Product,D,VAI (%),54.7
+18,Product,E,VAI (%),
+19,Product,A,VAI (%),59.8
+19,Product,B,VAI (%),65.1
+19,Product,C,VAI (%),65.5
+19,Product,D,VAI (%),64.3
+19,Product,E,VAI (%),47.9
+20,Product,A,VAI (%),63.5
+20,Product,B,VAI (%),58.5
+20,Product,C,VAI (%),60.5
+20,Product,D,VAI (%),61.7
+20,Product,E,VAI (%),
+1,Product,A,TTFF (s),0.01
+1,Product,B,TTFF (s),3.05
+1,Product,C,TTFF (s),2.1
+1,Product,D,TTFF (s),1.92
+1,Product,E,TTFF (s),2.28
+2,Product,A,TTFF (s),3.02
+2,Product,B,TTFF (s),3.12
+2,Product,C,TTFF (s),3.55
+2,Product,D,TTFF (s),1.65
+2,Product,E,TTFF (s),1.86
+3,Product,A,TTFF (s),3.1
+3,Product,B,TTFF (s),3.4
+3,Product,C,TTFF (s),2.85
+3,Product,D,TTFF (s),2.83
+3,Product,E,TTFF (s),2.74
+4,Product,A,TTFF (s),1.59
+4,Product,B,TTFF (s),2.87
+4,Product,C,TTFF (s),1.49
+4,Product,D,TTFF (s),1.54
+4,Product,E,TTFF (s),1.53
+5,Product,A,TTFF (s),1.7
+5,Product,B,TTFF (s),2.09
+5,Product,C,TTFF (s),2.43
+5,Product,D,TTFF (s),
+5,Product,E,TTFF (s),1.68
+6,Product,A,TTFF (s),2.69
+6,Product,B,TTFF (s),1.41
+6,Product,C,TTFF (s),3.64
+6,Product,D,TTFF (s),2.6
+6,Product,E,TTFF (s),2.94
+7,Product,A,TTFF (s),1.41
+7,Product,B,TTFF (s),1.93
+7,Product,C,TTFF (s),1.81
+7,Product,D,TTFF (s),1.66
+7,Product,E,TTFF (s),1.24
+8,Product,A,TTFF (s),2.54
+8,Product,B,TTFF (s),2.23
+8,Product,C,TTFF (s),1.73
+8,Product,D,TTFF (s),1.55
+8,Product,E,TTFF (s),1.88
+9,Product,A,TTFF (s),2.37
+9,Product,B,TTFF (s),2.44
+9,Product,C,TTFF (s),2.0
+9,Product,D,TTFF (s),2.06
+9,Product,E,TTFF (s),1.82
+10,Product,A,TTFF (s),1.77
+10,Product,B,TTFF (s),1.37
+10,Product,C,TTFF (s),2.09
+10,Product,D,TTFF (s),2.04
+10,Product,E,TTFF (s),2.01
+11,Product,A,TTFF (s),2.54
+11,Product,B,TTFF (s),2.61
+11,Product,C,TTFF (s),2.96
+11,Product,D,TTFF (s),2.54
+11,Product,E,TTFF (s),2.32
+12,Product,A,TTFF (s),2.5
+12,Product,B,TTFF (s),2.41
+12,Product,C,TTFF (s),1.98
+12,Product,D,TTFF (s),2.37
+12,Product,E,TTFF (s),2.44
+13,Product,A,TTFF (s),2.51
+13,Product,B,TTFF (s),2.33
+13,Product,C,TTFF (s),2.13
+13,Product,D,TTFF (s),2.44
+13,Product,E,TTFF (s),2.44
+14,Product,A,TTFF (s),1.8
+14,Product,B,TTFF (s),2.9
+14,Product,C,TTFF (s),3.15
+14,Product,D,TTFF (s),2.08
+14,Product,E,TTFF (s),2.12
+15,Product,A,TTFF (s),2.5
+15,Product,B,TTFF (s),2.52
+15,Product,C,TTFF (s),2.03
+15,Product,D,TTFF (s),2.81
+15,Product,E,TTFF (s),0.18
+16,Product,A,TTFF (s),1.91
+16,Product,B,TTFF (s),2.17
+16,Product,C,TTFF (s),1.61
+16,Product,D,TTFF (s),2.57
+16,Product,E,TTFF (s),1.79
+17,Product,A,TTFF (s),2.27
+17,Product,B,TTFF (s),2.17
+17,Product,C,TTFF (s),2.23
+17,Product,D,TTFF (s),1.82
+17,Product,E,TTFF (s),1.75
+18,Product,A,TTFF (s),1.68
+18,Product,B,TTFF (s),2.08
+18,Product,C,TTFF (s),2.74
+18,Product,D,TTFF (s),2.08
+18,Product,E,TTFF (s),
+19,Product,A,TTFF (s),1.54
+19,Product,B,TTFF (s),1.93
+19,Product,C,TTFF (s),1.66
+19,Product,D,TTFF (s),1.66
+19,Product,E,TTFF (s),0.04
+20,Product,A,TTFF (s),1.94
+20,Product,B,TTFF (s),1.95
+20,Product,C,TTFF (s),1.71
+20,Product,D,TTFF (s),1.99
+20,Product,E,TTFF (s),
+1,Product,A,Time spent (s),0.37
+1,Product,B,Time spent (s),0.84
+1,Product,C,Time spent (s),1.66
+1,Product,D,Time spent (s),0.93
+1,Product,E,Time spent (s),1.1
+2,Product,A,Time spent (s),0.53
+2,Product,B,Time spent (s),0.45
+2,Product,C,Time spent (s),0.35
+2,Product,D,Time spent (s),0.6
+2,Product,E,Time spent (s),0.94
+3,Product,A,Time spent (s),0.74
+3,Product,B,Time spent (s),0.29
+3,Product,C,Time spent (s),0.93
+3,Product,D,Time spent (s),0.69
+3,Product,E,Time spent (s),0.61
+4,Product,A,Time spent (s),1.58
+4,Product,B,Time spent (s),0.35
+4,Product,C,Time spent (s),1.08
+4,Product,D,Time spent (s),1.11
+4,Product,E,Time spent (s),1.32
+5,Product,A,Time spent (s),0.76
+5,Product,B,Time spent (s),0.44
+5,Product,C,Time spent (s),0.42
+5,Product,D,Time spent (s),
+5,Product,E,Time spent (s),0.74
+6,Product,A,Time spent (s),0.74
+6,Product,B,Time spent (s),1.37
+6,Product,C,Time spent (s),0.68
+6,Product,D,Time spent (s),0.74
+6,Product,E,Time spent (s),0.48
+7,Product,A,Time spent (s),2.21
+7,Product,B,Time spent (s),1.28
+7,Product,C,Time spent (s),1.64
+7,Product,D,Time spent (s),1.75
+7,Product,E,Time spent (s),1.45
+8,Product,A,Time spent (s),1.14
+8,Product,B,Time spent (s),1.35
+8,Product,C,Time spent (s),1.67
+8,Product,D,Time spent (s),1.47
+8,Product,E,Time spent (s),1.5
+9,Product,A,Time spent (s),1.21
+9,Product,B,Time spent (s),0.87
+9,Product,C,Time spent (s),0.91
+9,Product,D,Time spent (s),1.15
+9,Product,E,Time spent (s),1.07
+10,Product,A,Time spent (s),1.37
+10,Product,B,Time spent (s),1.23
+10,Product,C,Time spent (s),1.64
+10,Product,D,Time spent (s),1.37
+10,Product,E,Time spent (s),0.97
+11,Product,A,Time spent (s),0.95
+11,Product,B,Time spent (s),0.63
+11,Product,C,Time spent (s),0.84
+11,Product,D,Time spent (s),0.75
+11,Product,E,Time spent (s),1.36
+12,Product,A,Time spent (s),0.46
+12,Product,B,Time spent (s),0.71
+12,Product,C,Time spent (s),1.16
+12,Product,D,Time spent (s),0.84
+12,Product,E,Time spent (s),1.33
+13,Product,A,Time spent (s),0.58
+13,Product,B,Time spent (s),0.72
+13,Product,C,Time spent (s),0.84
+13,Product,D,Time spent (s),0.73
+13,Product,E,Time spent (s),0.65
+14,Product,A,Time spent (s),0.55
+14,Product,B,Time spent (s),0.64
+14,Product,C,Time spent (s),0.65
+14,Product,D,Time spent (s),0.63
+14,Product,E,Time spent (s),0.9
+15,Product,A,Time spent (s),0.75
+15,Product,B,Time spent (s),1.34
+15,Product,C,Time spent (s),1.29
+15,Product,D,Time spent (s),0.57
+15,Product,E,Time spent (s),0.24
+16,Product,A,Time spent (s),1.26
+16,Product,B,Time spent (s),1.1
+16,Product,C,Time spent (s),0.97
+16,Product,D,Time spent (s),0.79
+16,Product,E,Time spent (s),0.92
+17,Product,A,Time spent (s),1.02
+17,Product,B,Time spent (s),0.54
+17,Product,C,Time spent (s),0.73
+17,Product,D,Time spent (s),0.62
+17,Product,E,Time spent (s),1.39
+18,Product,A,Time spent (s),1.31
+18,Product,B,Time spent (s),0.87
+18,Product,C,Time spent (s),0.8
+18,Product,D,Time spent (s),1.1
+18,Product,E,Time spent (s),
+19,Product,A,Time spent (s),1.66
+19,Product,B,Time spent (s),1.17
+19,Product,C,Time spent (s),1.5
+19,Product,D,Time spent (s),0.77
+19,Product,E,Time spent (s),0.34
+20,Product,A,Time spent (s),1.47
+20,Product,B,Time spent (s),1.71
+20,Product,C,Time spent (s),1.3
+20,Product,D,Time spent (s),1.19
+20,Product,E,Time spent (s),
+1,Product,A,Fixations,8.0
+1,Product,B,Fixations,55.0
+1,Product,C,Fixations,122.0
+1,Product,D,Fixations,88.0
+1,Product,E,Fixations,98.0
+2,Product,A,Fixations,33.0
+2,Product,B,Fixations,30.0
+2,Product,C,Fixations,13.0
+2,Product,D,Fixations,32.0
+2,Product,E,Fixations,86.0
+3,Product,A,Fixations,32.0
+3,Product,B,Fixations,14.0
+3,Product,C,Fixations,48.0
+3,Product,D,Fixations,43.0
+3,Product,E,Fixations,48.0
+4,Product,A,Fixations,99.0
+4,Product,B,Fixations,7.0
+4,Product,C,Fixations,95.0
+4,Product,D,Fixations,83.0
+4,Product,E,Fixations,99.0
+5,Product,A,Fixations,38.0
+5,Product,B,Fixations,10.0
+5,Product,C,Fixations,12.0
+5,Product,D,Fixations,
+5,Product,E,Fixations,39.0
+6,Product,A,Fixations,33.0
+6,Product,B,Fixations,91.0
+6,Product,C,Fixations,46.0
+6,Product,D,Fixations,53.0
+6,Product,E,Fixations,34.0
+7,Product,A,Fixations,160.0
+7,Product,B,Fixations,115.0
+7,Product,C,Fixations,163.0
+7,Product,D,Fixations,154.0
+7,Product,E,Fixations,139.0
+8,Product,A,Fixations,86.0
+8,Product,B,Fixations,133.0
+8,Product,C,Fixations,128.0
+8,Product,D,Fixations,140.0
+8,Product,E,Fixations,120.0
+9,Product,A,Fixations,93.0
+9,Product,B,Fixations,67.0
+9,Product,C,Fixations,69.0
+9,Product,D,Fixations,101.0
+9,Product,E,Fixations,79.0
+10,Product,A,Fixations,90.0
+10,Product,B,Fixations,113.0
+10,Product,C,Fixations,125.0
+10,Product,D,Fixations,119.0
+10,Product,E,Fixations,94.0
+11,Product,A,Fixations,69.0
+11,Product,B,Fixations,39.0
+11,Product,C,Fixations,49.0
+11,Product,D,Fixations,51.0
+11,Product,E,Fixations,99.0
+12,Product,A,Fixations,25.0
+12,Product,B,Fixations,69.0
+12,Product,C,Fixations,83.0
+12,Product,D,Fixations,71.0
+12,Product,E,Fixations,87.0
+13,Product,A,Fixations,28.0
+13,Product,B,Fixations,55.0
+13,Product,C,Fixations,72.0
+13,Product,D,Fixations,55.0
+13,Product,E,Fixations,46.0
+14,Product,A,Fixations,47.0
+14,Product,B,Fixations,53.0
+14,Product,C,Fixations,50.0
+14,Product,D,Fixations,47.0
+14,Product,E,Fixations,52.0
+15,Product,A,Fixations,58.0
+15,Product,B,Fixations,75.0
+15,Product,C,Fixations,121.0
+15,Product,D,Fixations,61.0
+15,Product,E,Fixations,18.0
+16,Product,A,Fixations,81.0
+16,Product,B,Fixations,73.0
+16,Product,C,Fixations,107.0
+16,Product,D,Fixations,64.0
+16,Product,E,Fixations,83.0
+17,Product,A,Fixations,58.0
+17,Product,B,Fixations,45.0
+17,Product,C,Fixations,51.0
+17,Product,D,Fixations,51.0
+17,Product,E,Fixations,97.0
+18,Product,A,Fixations,64.0
+18,Product,B,Fixations,62.0
+18,Product,C,Fixations,61.0
+18,Product,D,Fixations,77.0
+18,Product,E,Fixations,
+19,Product,A,Fixations,136.0
+19,Product,B,Fixations,122.0
+19,Product,C,Fixations,120.0
+19,Product,D,Fixations,82.0
+19,Product,E,Fixations,16.0
+20,Product,A,Fixations,136.0
+20,Product,B,Fixations,138.0
+20,Product,C,Fixations,105.0
+20,Product,D,Fixations,121.0
+20,Product,E,Fixations,
+1,Product,A,Fix. duration (s),0.3
+1,Product,B,Fix. duration (s),0.22
+1,Product,C,Fix. duration (s),0.24
+1,Product,D,Fix. duration (s),0.18
+1,Product,E,Fix. duration (s),0.21
+2,Product,A,Fix. duration (s),0.23
+2,Product,B,Fix. duration (s),0.16
+2,Product,C,Fix. duration (s),0.17
+2,Product,D,Fix. duration (s),0.17
+2,Product,E,Fix. duration (s),0.21
+3,Product,A,Fix. duration (s),0.3
+3,Product,B,Fix. duration (s),0.21
+3,Product,C,Fix. duration (s),0.21
+3,Product,D,Fix. duration (s),0.21
+3,Product,E,Fix. duration (s),0.2
+4,Product,A,Fix. duration (s),0.28
+4,Product,B,Fix. duration (s),0.18
+4,Product,C,Fix. duration (s),0.19
+4,Product,D,Fix. duration (s),0.23
+4,Product,E,Fix. duration (s),0.24
+5,Product,A,Fix. duration (s),0.25
+5,Product,B,Fix. duration (s),0.24
+5,Product,C,Fix. duration (s),0.2
+5,Product,D,Fix. duration (s),
+5,Product,E,Fix. duration (s),0.23
+6,Product,A,Fix. duration (s),0.27
+6,Product,B,Fix. duration (s),0.24
+6,Product,C,Fix. duration (s),0.23
+6,Product,D,Fix. duration (s),0.2
+6,Product,E,Fix. duration (s),0.2
+7,Product,A,Fix. duration (s),0.28
+7,Product,B,Fix. duration (s),0.23
+7,Product,C,Fix. duration (s),0.19
+7,Product,D,Fix. duration (s),0.21
+7,Product,E,Fix. duration (s),0.21
+8,Product,A,Fix. duration (s),0.25
+8,Product,B,Fix. duration (s),0.19
+8,Product,C,Fix. duration (s),0.22
+8,Product,D,Fix. duration (s),0.2
+8,Product,E,Fix. duration (s),0.23
+9,Product,A,Fix. duration (s),0.27
+9,Product,B,Fix. duration (s),0.2
+9,Product,C,Fix. duration (s),0.23
+9,Product,D,Fix. duration (s),0.22
+9,Product,E,Fix. duration (s),0.21
+10,Product,A,Fix. duration (s),0.29
+10,Product,B,Fix. duration (s),0.21
+10,Product,C,Fix. duration (s),0.25
+10,Product,D,Fix. duration (s),0.21
+10,Product,E,Fix. duration (s),0.22
+11,Product,A,Fix. duration (s),0.24
+11,Product,B,Fix. duration (s),0.21
+11,Product,C,Fix. duration (s),0.22
+11,Product,D,Fix. duration (s),0.2
+11,Product,E,Fix. duration (s),0.22
+12,Product,A,Fix. duration (s),0.28
+12,Product,B,Fix. duration (s),0.18
+12,Product,C,Fix. duration (s),0.22
+12,Product,D,Fix. duration (s),0.22
+12,Product,E,Fix. duration (s),0.23
+13,Product,A,Fix. duration (s),0.25
+13,Product,B,Fix. duration (s),0.18
+13,Product,C,Fix. duration (s),0.2
+13,Product,D,Fix. duration (s),0.22
+13,Product,E,Fix. duration (s),0.21
+14,Product,A,Fix. duration (s),0.2
+14,Product,B,Fix. duration (s),0.21
+14,Product,C,Fix. duration (s),0.26
+14,Product,D,Fix. duration (s),0.22
+14,Product,E,Fix. duration (s),0.25
+15,Product,A,Fix. duration (s),0.18
+15,Product,B,Fix. duration (s),0.25
+15,Product,C,Fix. duration (s),0.19
+15,Product,D,Fix. duration (s),0.18
+15,Product,E,Fix. duration (s),0.16
+16,Product,A,Fix. duration (s),0.26
+16,Product,B,Fix. duration (s),0.24
+16,Product,C,Fix. duration (s),0.19
+16,Product,D,Fix. duration (s),0.2
+16,Product,E,Fix. duration (s),0.18
+17,Product,A,Fix. duration (s),0.33
+17,Product,B,Fix. duration (s),0.22
+17,Product,C,Fix. duration (s),0.22
+17,Product,D,Fix. duration (s),0.21
+17,Product,E,Fix. duration (s),0.23
+18,Product,A,Fix. duration (s),0.32
+18,Product,B,Fix. duration (s),0.19
+18,Product,C,Fix. duration (s),0.2
+18,Product,D,Fix. duration (s),0.24
+18,Product,E,Fix. duration (s),
+19,Product,A,Fix. duration (s),0.21
+19,Product,B,Fix. duration (s),0.18
+19,Product,C,Fix. duration (s),0.24
+19,Product,D,Fix. duration (s),0.19
+19,Product,E,Fix. duration (s),0.26
+20,Product,A,Fix. duration (s),0.22
+20,Product,B,Fix. duration (s),0.24
+20,Product,C,Fix. duration (s),0.22
+20,Product,D,Fix. duration (s),0.21
+20,Product,E,Fix. duration (s),
+1,Product,A,FFD (s),0.35
+1,Product,B,FFD (s),0.23
+1,Product,C,FFD (s),0.27
+1,Product,D,FFD (s),0.2
+1,Product,E,FFD (s),0.2
+2,Product,A,FFD (s),0.22
+2,Product,B,FFD (s),0.17
+2,Product,C,FFD (s),0.19
+2,Product,D,FFD (s),0.16
+2,Product,E,FFD (s),0.21
+3,Product,A,FFD (s),0.32
+3,Product,B,FFD (s),0.2
+3,Product,C,FFD (s),0.21
+3,Product,D,FFD (s),0.19
+3,Product,E,FFD (s),0.2
+4,Product,A,FFD (s),0.27
+4,Product,B,FFD (s),0.18
+4,Product,C,FFD (s),0.2
+4,Product,D,FFD (s),0.21
+4,Product,E,FFD (s),0.22
+5,Product,A,FFD (s),0.28
+5,Product,B,FFD (s),0.23
+5,Product,C,FFD (s),0.23
+5,Product,D,FFD (s),
+5,Product,E,FFD (s),0.25
+6,Product,A,FFD (s),0.3
+6,Product,B,FFD (s),0.26
+6,Product,C,FFD (s),0.23
+6,Product,D,FFD (s),0.2
+6,Product,E,FFD (s),0.2
+7,Product,A,FFD (s),0.27
+7,Product,B,FFD (s),0.24
+7,Product,C,FFD (s),0.17
+7,Product,D,FFD (s),0.21
+7,Product,E,FFD (s),0.16
+8,Product,A,FFD (s),0.24
+8,Product,B,FFD (s),0.21
+8,Product,C,FFD (s),0.24
+8,Product,D,FFD (s),0.18
+8,Product,E,FFD (s),0.23
+9,Product,A,FFD (s),0.28
+9,Product,B,FFD (s),0.2
+9,Product,C,FFD (s),0.22
+9,Product,D,FFD (s),0.22
+9,Product,E,FFD (s),0.22
+10,Product,A,FFD (s),0.28
+10,Product,B,FFD (s),0.19
+10,Product,C,FFD (s),0.23
+10,Product,D,FFD (s),0.21
+10,Product,E,FFD (s),0.19
+11,Product,A,FFD (s),0.25
+11,Product,B,FFD (s),0.23
+11,Product,C,FFD (s),0.2
+11,Product,D,FFD (s),0.18
+11,Product,E,FFD (s),0.23
+12,Product,A,FFD (s),0.27
+12,Product,B,FFD (s),0.2
+12,Product,C,FFD (s),0.24
+12,Product,D,FFD (s),0.23
+12,Product,E,FFD (s),0.2
+13,Product,A,FFD (s),0.23
+13,Product,B,FFD (s),0.17
+13,Product,C,FFD (s),0.21
+13,Product,D,FFD (s),0.22
+13,Product,E,FFD (s),0.2
+14,Product,A,FFD (s),0.21
+14,Product,B,FFD (s),0.22
+14,Product,C,FFD (s),0.27
+14,Product,D,FFD (s),0.22
+14,Product,E,FFD (s),0.28
+15,Product,A,FFD (s),0.14
+15,Product,B,FFD (s),0.21
+15,Product,C,FFD (s),0.17
+15,Product,D,FFD (s),0.19
+15,Product,E,FFD (s),0.21
+16,Product,A,FFD (s),0.25
+16,Product,B,FFD (s),0.24
+16,Product,C,FFD (s),0.2
+16,Product,D,FFD (s),0.2
+16,Product,E,FFD (s),0.18
+17,Product,A,FFD (s),0.32
+17,Product,B,FFD (s),0.22
+17,Product,C,FFD (s),0.21
+17,Product,D,FFD (s),0.22
+17,Product,E,FFD (s),0.24
+18,Product,A,FFD (s),0.34
+18,Product,B,FFD (s),0.17
+18,Product,C,FFD (s),0.22
+18,Product,D,FFD (s),0.26
+18,Product,E,FFD (s),
+19,Product,A,FFD (s),0.18
+19,Product,B,FFD (s),0.17
+19,Product,C,FFD (s),0.25
+19,Product,D,FFD (s),0.17
+19,Product,E,FFD (s),0.31
+20,Product,A,FFD (s),0.19
+20,Product,B,FFD (s),0.26
+20,Product,C,FFD (s),0.22
+20,Product,D,FFD (s),0.21
+20,Product,E,FFD (s),
+1,Product,A,K-coefficient,0.43
+1,Product,B,K-coefficient,-0.13
+1,Product,C,K-coefficient,0.38
+1,Product,D,K-coefficient,0.01
+1,Product,E,K-coefficient,-0.15
+2,Product,A,K-coefficient,0.01
+2,Product,B,K-coefficient,-0.21
+2,Product,C,K-coefficient,0.34
+2,Product,D,K-coefficient,0.03
+2,Product,E,K-coefficient,-0.18
+3,Product,A,K-coefficient,0.43
+3,Product,B,K-coefficient,-0.41
+3,Product,C,K-coefficient,0.33
+3,Product,D,K-coefficient,0.13
+3,Product,E,K-coefficient,-0.11
+4,Product,A,K-coefficient,0.39
+4,Product,B,K-coefficient,-0.35
+4,Product,C,K-coefficient,0.15
+4,Product,D,K-coefficient,0.32
+4,Product,E,K-coefficient,0.34
+5,Product,A,K-coefficient,0.18
+5,Product,B,K-coefficient,-0.43
+5,Product,C,K-coefficient,-0.49
+5,Product,D,K-coefficient,
+5,Product,E,K-coefficient,0.24
+6,Product,A,K-coefficient,-0.1
+6,Product,B,K-coefficient,0.3
+6,Product,C,K-coefficient,0.11
+6,Product,D,K-coefficient,-0.55
+6,Product,E,K-coefficient,-0.15
+7,Product,A,K-coefficient,0.35
+7,Product,B,K-coefficient,0.25
+7,Product,C,K-coefficient,0.08
+7,Product,D,K-coefficient,0.22
+7,Product,E,K-coefficient,0.42
+8,Product,A,K-coefficient,0.07
+8,Product,B,K-coefficient,-0.1
+8,Product,C,K-coefficient,0.39
+8,Product,D,K-coefficient,0.18
+8,Product,E,K-coefficient,-0.09
+9,Product,A,K-coefficient,0.35
+9,Product,B,K-coefficient,0.19
+9,Product,C,K-coefficient,0.12
+9,Product,D,K-coefficient,0.11
+9,Product,E,K-coefficient,0.2
+10,Product,A,K-coefficient,0.04
+10,Product,B,K-coefficient,0.1
+10,Product,C,K-coefficient,0.24
+10,Product,D,K-coefficient,0.0
+10,Product,E,K-coefficient,0.08
+11,Product,A,K-coefficient,-0.11
+11,Product,B,K-coefficient,0.39
+11,Product,C,K-coefficient,0.39
+11,Product,D,K-coefficient,0.15
+11,Product,E,K-coefficient,-0.12
+12,Product,A,K-coefficient,-0.12
+12,Product,B,K-coefficient,0.09
+12,Product,C,K-coefficient,0.58
+12,Product,D,K-coefficient,-0.14
+12,Product,E,K-coefficient,0.39
+13,Product,A,K-coefficient,-0.3
+13,Product,B,K-coefficient,-0.33
+13,Product,C,K-coefficient,-0.02
+13,Product,D,K-coefficient,-0.31
+13,Product,E,K-coefficient,-0.01
+14,Product,A,K-coefficient,-0.39
+14,Product,B,K-coefficient,0.0
+14,Product,C,K-coefficient,0.09
+14,Product,D,K-coefficient,0.05
+14,Product,E,K-coefficient,0.28
+15,Product,A,K-coefficient,0.44
+15,Product,B,K-coefficient,0.47
+15,Product,C,K-coefficient,0.07
+15,Product,D,K-coefficient,-0.31
+15,Product,E,K-coefficient,-0.21
+16,Product,A,K-coefficient,0.0
+16,Product,B,K-coefficient,0.3
+16,Product,C,K-coefficient,0.25
+16,Product,D,K-coefficient,0.23
+16,Product,E,K-coefficient,-0.27
+17,Product,A,K-coefficient,0.14
+17,Product,B,K-coefficient,-0.44
+17,Product,C,K-coefficient,0.28
+17,Product,D,K-coefficient,-0.19
+17,Product,E,K-coefficient,0.28
+18,Product,A,K-coefficient,0.16
+18,Product,B,K-coefficient,0.08
+18,Product,C,K-coefficient,0.32
+18,Product,D,K-coefficient,0.21
+18,Product,E,K-coefficient,
+19,Product,A,K-coefficient,0.19
+19,Product,B,K-coefficient,-0.02
+19,Product,C,K-coefficient,0.19
+19,Product,D,K-coefficient,0.22
+19,Product,E,K-coefficient,0.03
+20,Product,A,K-coefficient,0.13
+20,Product,B,K-coefficient,0.3
+20,Product,C,K-coefficient,0.31
+20,Product,D,K-coefficient,0.44
+20,Product,E,K-coefficient,
+1,Product,A,Revisits,0.0
+1,Product,B,Revisits,0.67
+1,Product,C,Revisits,1.95
+1,Product,D,Revisits,1.43
+1,Product,E,Revisits,1.6
+2,Product,A,Revisits,0.62
+2,Product,B,Revisits,0.72
+2,Product,C,Revisits,0.33
+2,Product,D,Revisits,0.8
+2,Product,E,Revisits,2.3
+3,Product,A,Revisits,0.28
+3,Product,B,Revisits,0.19
+3,Product,C,Revisits,0.85
+3,Product,D,Revisits,0.68
+3,Product,E,Revisits,0.65
+4,Product,A,Revisits,1.52
+4,Product,B,Revisits,0.1
+4,Product,C,Revisits,2.2
+4,Product,D,Revisits,1.43
+4,Product,E,Revisits,1.47
+5,Product,A,Revisits,0.55
+5,Product,B,Revisits,0.17
+5,Product,C,Revisits,0.25
+5,Product,D,Revisits,
+5,Product,E,Revisits,0.55
+6,Product,A,Revisits,0.5
+6,Product,B,Revisits,2.05
+6,Product,C,Revisits,0.65
+6,Product,D,Revisits,1.05
+6,Product,E,Revisits,0.72
+7,Product,A,Revisits,1.95
+7,Product,B,Revisits,1.95
+7,Product,C,Revisits,2.14
+7,Product,D,Revisits,2.45
+7,Product,E,Revisits,4.15
+8,Product,A,Revisits,1.35
+8,Product,B,Revisits,1.48
+8,Product,C,Revisits,1.55
+8,Product,D,Revisits,2.4
+8,Product,E,Revisits,2.05
+9,Product,A,Revisits,1.76
+9,Product,B,Revisits,0.75
+9,Product,C,Revisits,1.94
+9,Product,D,Revisits,1.95
+9,Product,E,Revisits,1.4
+10,Product,A,Revisits,1.5
+10,Product,B,Revisits,2.55
+10,Product,C,Revisits,1.5
+10,Product,D,Revisits,1.7
+10,Product,E,Revisits,1.52
+11,Product,A,Revisits,1.2
+11,Product,B,Revisits,0.81
+11,Product,C,Revisits,0.95
+11,Product,D,Revisits,1.0
+11,Product,E,Revisits,1.3
+12,Product,A,Revisits,0.42
+12,Product,B,Revisits,1.14
+12,Product,C,Revisits,1.05
+12,Product,D,Revisits,1.2
+12,Product,E,Revisits,1.1
+13,Product,A,Revisits,0.48
+13,Product,B,Revisits,1.3
+13,Product,C,Revisits,1.65
+13,Product,D,Revisits,0.9
+13,Product,E,Revisits,0.89
+14,Product,A,Revisits,0.65
+14,Product,B,Revisits,0.85
+14,Product,C,Revisits,0.81
+14,Product,D,Revisits,0.7
+14,Product,E,Revisits,0.81
+15,Product,A,Revisits,1.32
+15,Product,B,Revisits,1.55
+15,Product,C,Revisits,1.8
+15,Product,D,Revisits,0.95
+15,Product,E,Revisits,0.05
+16,Product,A,Revisits,1.33
+16,Product,B,Revisits,1.53
+16,Product,C,Revisits,1.9
+16,Product,D,Revisits,1.05
+16,Product,E,Revisits,1.8
+17,Product,A,Revisits,1.4
+17,Product,B,Revisits,0.71
+17,Product,C,Revisits,0.9
+17,Product,D,Revisits,1.17
+17,Product,E,Revisits,1.33
+18,Product,A,Revisits,1.32
+18,Product,B,Revisits,1.3
+18,Product,C,Revisits,1.15
+18,Product,D,Revisits,1.2
+18,Product,E,Revisits,
+19,Product,A,Revisits,1.95
+19,Product,B,Revisits,2.1
+19,Product,C,Revisits,1.81
+19,Product,D,Revisits,1.6
+19,Product,E,Revisits,0.05
+20,Product,A,Revisits,2.6
+20,Product,B,Revisits,1.85
+20,Product,C,Revisits,1.9
+20,Product,D,Revisits,1.52
+20,Product,E,Revisits,

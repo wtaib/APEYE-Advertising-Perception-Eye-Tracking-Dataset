@@ -1,0 +1,13 @@
+comparison,AOI,n_significant_global_FDR
+A_vs_B,CTA,0
+A_vs_B,Headline,2
+A_vs_B,Product,2
+A_vs_C,CTA,3
+A_vs_C,Headline,3
+A_vs_C,Product,2
+A_vs_D,CTA,2
+A_vs_D,Headline,3
+A_vs_D,Product,2
+A_vs_E,CTA,0
+A_vs_E,Headline,2
+A_vs_E,Product,2
